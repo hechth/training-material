@@ -242,7 +242,7 @@
           ],
           "name": "Genome Annotation with Prokka [Feb 2020]",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.json",
@@ -418,7 +418,7 @@
           ],
           "name": "CHROMEISTER chromosome comparison",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         },
         {
           "workflow": "GECKO_pairwise_comparison.ga",
@@ -434,7 +434,7 @@
           ],
           "name": "GECKO pairwise comparison",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/hpc-for-lsgc/tutorial.json",
@@ -684,7 +684,7 @@
           ],
           "name": "Apollo Load Test",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/apollo/tutorial.json",
@@ -991,7 +991,7 @@
           ],
           "name": "RepeatMasker",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/repeatmasker/tutorial.json",
@@ -1313,6 +1313,117 @@
     },
     {
       "layout": "tutorial_hands_on",
+      "title": "Genome Annotation",
+      "zenodo_link": "https://doi.org/10.5281/zenodo.1250793",
+      "tags": [
+        "prokaryote",
+        "work-in-progress"
+      ],
+      "questions": null,
+      "draft": true,
+      "objectives": null,
+      "time_estimation": "2H",
+      "level": "Introductory",
+      "key_points": null,
+      "contributors": [
+        {
+          "name": "Anika Erxleben",
+          "email": "anikaerxleben@gmail.com",
+          "orcid": "0000-0002-7427-6478",
+          "joined": "2017-09",
+          "elixir_node": "de",
+          "id": "erxleben",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
+        },
+        {
+          "name": "Björn Grüning",
+          "email": "bjoern.gruening@gmail.com",
+          "twitter": "bjoerngruening",
+          "fediverse": "https://fosstodon.org/@bgruening",
+          "fediverse_flavor": "mastodon",
+          "matrix": "bgruening:matrix.org",
+          "orcid": "0000-0002-3079-6586",
+          "linkedin": "bgruening",
+          "joined": "2017-09",
+          "elixir_node": "de",
+          "id": "bgruening",
+          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
+          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
+        }
+      ],
+      "subtopic": "prokaryote",
+      "mathjax": null,
+      "short_id": "T00175",
+      "url": "/topics/genome-annotation/tutorials/genome-annotation/tutorial.html",
+      "topic_name": "genome-annotation",
+      "tutorial_name": "genome-annotation",
+      "dir": "topics/genome-annotation/tutorials/genome-annotation",
+      "id": "genome-annotation/genome-annotation",
+      "video_library": {
+        "tutorial": null,
+        "slides": null,
+        "demo": null,
+        "both": null,
+        "session": null
+      },
+      "hands_on": true,
+      "slides": false,
+      "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/genome-annotation/tutorial.json",
+      "tools": [
+
+      ],
+      "supported_servers": {
+        "exact": [
+
+        ],
+        "inexact": [
+          {
+            "name": "UseGalaxy.eu",
+            "url": "https://usegalaxy.eu",
+            "usegalaxy": true
+          },
+          {
+            "name": "UseGalaxy.org",
+            "url": "https://usegalaxy.org",
+            "usegalaxy": true
+          },
+          {
+            "name": "UseGalaxy.org.au",
+            "url": "https://usegalaxy.org.au",
+            "usegalaxy": true
+          }
+        ]
+      },
+      "topic_name_human": "Genome Annotation",
+      "admin_install": {
+        "install_tool_dependencies": true,
+        "install_repository_dependencies": true,
+        "install_resolver_dependencies": true,
+        "tools": [
+
+        ]
+      },
+      "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools: []\n",
+      "tours": false,
+      "video": false,
+      "translations": {
+        "tutorial": [
+
+        ],
+        "slides": [
+
+        ],
+        "video": false
+      },
+      "type": "tutorial",
+      "urls": {
+        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/genome-annotation/tutorial.json",
+        "slides": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/genome-annotation/tutorial.json"
+      }
+    },
+    {
+      "layout": "tutorial_hands_on",
       "title": "Creating an Official Gene Set",
       "zenodo_link": "",
       "questions": [
@@ -1460,117 +1571,6 @@
     },
     {
       "layout": "tutorial_hands_on",
-      "title": "Genome Annotation",
-      "zenodo_link": "https://doi.org/10.5281/zenodo.1250793",
-      "tags": [
-        "prokaryote",
-        "work-in-progress"
-      ],
-      "questions": null,
-      "draft": true,
-      "objectives": null,
-      "time_estimation": "2H",
-      "level": "Introductory",
-      "key_points": null,
-      "contributors": [
-        {
-          "name": "Anika Erxleben",
-          "email": "anikaerxleben@gmail.com",
-          "orcid": "0000-0002-7427-6478",
-          "joined": "2017-09",
-          "elixir_node": "de",
-          "id": "erxleben",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/erxleben.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/erxleben/"
-        },
-        {
-          "name": "Björn Grüning",
-          "email": "bjoern.gruening@gmail.com",
-          "twitter": "bjoerngruening",
-          "fediverse": "https://fosstodon.org/@bgruening",
-          "fediverse_flavor": "mastodon",
-          "matrix": "bgruening:matrix.org",
-          "orcid": "0000-0002-3079-6586",
-          "linkedin": "bgruening",
-          "joined": "2017-09",
-          "elixir_node": "de",
-          "id": "bgruening",
-          "url": "https://training.galaxyproject.org/training-material/api/contributors/bgruening.json",
-          "page": "https://training.galaxyproject.org/training-material/hall-of-fame/bgruening/"
-        }
-      ],
-      "subtopic": "prokaryote",
-      "mathjax": null,
-      "short_id": "T00175",
-      "url": "/topics/genome-annotation/tutorials/genome-annotation/tutorial.html",
-      "topic_name": "genome-annotation",
-      "tutorial_name": "genome-annotation",
-      "dir": "topics/genome-annotation/tutorials/genome-annotation",
-      "id": "genome-annotation/genome-annotation",
-      "video_library": {
-        "tutorial": null,
-        "slides": null,
-        "demo": null,
-        "both": null,
-        "session": null
-      },
-      "hands_on": true,
-      "slides": false,
-      "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/genome-annotation/tutorial.json",
-      "tools": [
-
-      ],
-      "supported_servers": {
-        "exact": [
-
-        ],
-        "inexact": [
-          {
-            "name": "UseGalaxy.eu",
-            "url": "https://usegalaxy.eu",
-            "usegalaxy": true
-          },
-          {
-            "name": "UseGalaxy.org",
-            "url": "https://usegalaxy.org",
-            "usegalaxy": true
-          },
-          {
-            "name": "UseGalaxy.org.au",
-            "url": "https://usegalaxy.org.au",
-            "usegalaxy": true
-          }
-        ]
-      },
-      "topic_name_human": "Genome Annotation",
-      "admin_install": {
-        "install_tool_dependencies": true,
-        "install_repository_dependencies": true,
-        "install_resolver_dependencies": true,
-        "tools": [
-
-        ]
-      },
-      "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools: []\n",
-      "tours": false,
-      "video": false,
-      "translations": {
-        "tutorial": [
-
-        ],
-        "slides": [
-
-        ],
-        "video": false
-      },
-      "type": "tutorial",
-      "urls": {
-        "hands_on": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/genome-annotation/tutorial.json",
-        "slides": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/genome-annotation/tutorial.json"
-      }
-    },
-    {
-      "layout": "tutorial_hands_on",
       "title": "Genome annotation with Funannotate",
       "zenodo_link": "https://zenodo.org/record/7867921",
       "tags": [
@@ -1701,7 +1701,7 @@
           ],
           "name": "Funannotate",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/funannotate/tutorial.json",
@@ -2054,7 +2054,7 @@
           ],
           "name": "Comparative gene analysis",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/gene-centric/tutorial.json",
@@ -2292,7 +2292,7 @@
           ],
           "name": "Genome annotation with Maker (short)",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-maker-short/tutorial.json",
@@ -2492,7 +2492,7 @@
           ],
           "name": "Essential genes detection with Transposon insertion sequencing",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/tnseq/tutorial.json",
@@ -2709,7 +2709,7 @@
           ],
           "name": "Genome annotation with Maker ",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-maker/tutorial.json",
@@ -2908,7 +2908,7 @@
           ],
           "name": "Functional annotation",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/functional/tutorial.json",
@@ -3333,7 +3333,7 @@
           ],
           "name": "Long non-coding RNAs (lncRNAs) annotation with FEELnc",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/lncrna/tutorial.json",
@@ -3641,7 +3641,7 @@
           ],
           "name": "Workflow constructed from history 'CRISPR tutorial Kenji'",
           "test_results": null,
-          "modified": "2023-12-07 00:32:18 +0000"
+          "modified": "2023-12-08 00:33:44 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/crispr-screen/tutorial.json",
