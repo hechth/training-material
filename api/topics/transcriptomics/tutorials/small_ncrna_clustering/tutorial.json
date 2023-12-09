@@ -58,7 +58,7 @@
       ],
       "name": "Blockclust 1.1.0 Clustering",
       "test_results": null,
-      "modified": "2023-12-08 00:33:46 +0000"
+      "modified": "2023-12-09 00:32:14 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/small_ncrna_clustering/tutorial.json",
