@@ -153,7 +153,7 @@
           ],
           "name": "Intro to Genome Assembly",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/general-introduction/tutorial.json",
@@ -197,6 +197,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           }
         ]
@@ -474,7 +479,7 @@
           ],
           "name": "Genome Assembly using PacBio data",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json",
@@ -490,6 +495,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           },
           {
@@ -692,7 +702,7 @@
           ],
           "name": "VGP assembly: training workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json",
@@ -1046,7 +1056,7 @@
           ],
           "name": "assembly_with_preprocessing",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "assembly_with_preprocessing_and_sra_download.ga",
@@ -1062,7 +1072,7 @@
           ],
           "name": "assembly_with_preprocessing_and_sra_download",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
@@ -1103,6 +1113,11 @@
           }
         ],
         "inexact": [
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
           {
             "url": "https://usegalaxy.no/",
             "name": "UseGalaxy.no",
@@ -1380,7 +1395,7 @@
           ],
           "name": "VGP assembly: training workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_genome_assembly/tutorial.json",
@@ -1844,7 +1859,7 @@
           ],
           "name": "Assembly polishing",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Assembly_with_Flye.ga",
@@ -1864,7 +1879,7 @@
           ],
           "name": "Assembly with Flye",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Assess_genome_quality.ga",
@@ -1884,7 +1899,7 @@
           ],
           "name": "Assess genome quality",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Combined_workflows_for_large_genome_assembly.ga",
@@ -1904,7 +1919,7 @@
           ],
           "name": "Combined workflows for large genome assembly",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Data_QC.ga",
@@ -1924,7 +1939,7 @@
           ],
           "name": "Data QC",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Racon_polish_with_Illumina_reads_x2.ga",
@@ -1944,7 +1959,7 @@
           ],
           "name": "Racon polish with Illumina reads (R1 only), x2",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Racon_polish_with_long_reads_x4.ga",
@@ -1964,7 +1979,7 @@
           ],
           "name": "Racon polish with long reads, x4",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Trim_and_filter_reads.ga",
@@ -1984,7 +1999,7 @@
           ],
           "name": "Trim and filter reads - fastp",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-kmer_counting.ga",
@@ -2004,7 +2019,7 @@
           ],
           "name": "kmer counting - meryl",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/largegenome/tutorial.json",
@@ -2314,7 +2329,7 @@
           ],
           "name": "Genome Assembly Quality Control",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-quality-control/tutorial.json",
@@ -2330,6 +2345,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           },
           {
@@ -2498,7 +2518,7 @@
           ],
           "name": "Chloroplast-genome-assembly-and-annotation",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
@@ -2535,6 +2555,11 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           },
           {
@@ -2769,7 +2794,7 @@
           ],
           "name": "Genome Assembly of MRSA using Oxford Nanopore MinION Data (imported from uploaded file)",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-nanopore/tutorial.json",
@@ -3091,7 +3116,7 @@
           ],
           "name": "Genome Assembly of MRSA using Illumina MiSeq Data",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json",
@@ -3437,7 +3462,7 @@
           ],
           "name": "Debruijn Graph",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json",
@@ -3604,7 +3629,7 @@
           ],
           "name": "Metagenomics assembly tutorial workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:55 +0000"
+          "modified": "2023-12-12 00:33:19 +0000"
         },
         {
           "workflow": "workflow-generate-dataset-for-assembly-tutorial.ga",
@@ -3620,7 +3645,7 @@
           ],
           "name": "workflow-generate-dataset-for-assembly-tutorial",
           "test_results": null,
-          "modified": "2023-12-11 00:33:55 +0000"
+          "modified": "2023-12-12 00:33:19 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/metagenomics-assembly/tutorial.json",
@@ -3972,7 +3997,7 @@
           ],
           "name": "Unicycler training",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
@@ -4016,6 +4041,11 @@
             "url": "https://galaxy.hyphy.org/",
             "name": "HyPhy HIV NGS Tools",
             "usegalaxy": "false"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -4192,7 +4222,7 @@
           ],
           "name": "Ecoli Comparison",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ecoli_comparison/tutorial.json",
@@ -4478,7 +4508,7 @@
           ],
           "name": "Post-assembly workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:53 +0000"
+          "modified": "2023-12-12 00:33:16 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/ERGA-post-assembly-QC/tutorial.json",

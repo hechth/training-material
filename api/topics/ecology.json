@@ -122,7 +122,7 @@
           ],
           "name": "Xarray_Map_Plotting_Workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/x-array-map-plot/tutorial.json",
@@ -154,7 +154,7 @@
           {
             "name": "graphicsmagick_image_montage",
             "owner": "bgruening",
-            "revisions": "39881709807e",
+            "revisions": "a0f01c777820",
             "tool_panel_section_label": "Convert Formats",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           },
@@ -188,7 +188,7 @@
           }
         ]
       },
-      "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools:\n- name: graphicsmagick_image_montage\n  owner: bgruening\n  revisions: 39881709807e\n  tool_panel_section_label: Convert Formats\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: cdo_operations\n  owner: climate\n  revisions: d5355f6fa02b\n  tool_panel_section_label: Climate Analysis\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: xarray_coords_info\n  owner: ecology\n  revisions: 3e73f657a998\n  tool_panel_section_label: GIS Data Handling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: xarray_mapplot\n  owner: ecology\n  revisions: dc05bf0af58f\n  tool_panel_section_label: GIS Data Handling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: xarray_metadata_info\n  owner: ecology\n  revisions: e8650cdf092f\n  tool_panel_section_label: GIS Data Handling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n",
+      "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools:\n- name: graphicsmagick_image_montage\n  owner: bgruening\n  revisions: a0f01c777820\n  tool_panel_section_label: Convert Formats\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: cdo_operations\n  owner: climate\n  revisions: d5355f6fa02b\n  tool_panel_section_label: Climate Analysis\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: xarray_coords_info\n  owner: ecology\n  revisions: 3e73f657a998\n  tool_panel_section_label: GIS Data Handling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: xarray_mapplot\n  owner: ecology\n  revisions: dc05bf0af58f\n  tool_panel_section_label: GIS Data Handling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: xarray_metadata_info\n  owner: ecology\n  revisions: e8650cdf092f\n  tool_panel_section_label: GIS Data Handling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n",
       "tours": false,
       "video": false,
       "translations": {
@@ -945,7 +945,7 @@
               "version": "0.1"
             }
           },
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/obisindicators/tutorial.json",
@@ -964,6 +964,11 @@
           }
         ],
         "inexact": [
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
           {
             "url": "https://usegalaxy.org",
             "name": "UseGalaxy.org (Main)",
@@ -1195,7 +1200,7 @@
           ],
           "name": "Compute and analyze biodiversity metrics with PAMPA toolsuite",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/PAMPA-toolsuite-tutorial/tutorial.json",
@@ -1226,6 +1231,11 @@
           }
         ],
         "inexact": [
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
           {
             "url": "https://usegalaxy.org.au",
             "name": "UseGalaxy.org.au",
@@ -1430,7 +1440,7 @@
           ],
           "name": "Genetic Map Rad Seq Workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/genetic-map-rad-seq/tutorial.json",
@@ -1629,7 +1639,7 @@
           ],
           "name": "Abundance Index \"stacked\" Visualization Creation",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Phenology__stacked__visualization_creation.ga",
@@ -1645,7 +1655,7 @@
           ],
           "name": "Phenology \"stacked\" Visualization Creation",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Tutorial_regionalGAM_complete_Multispecies.ga",
@@ -1661,7 +1671,7 @@
           ],
           "name": "Tutorial regionalGAM Complete Multispecies",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-Tutorial_training_regionalGAM_complete_workflow.ga",
@@ -1677,7 +1687,7 @@
           ],
           "name": "Regional GAM Workflow",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/regionalGAM/tutorial.json",
@@ -1900,7 +1910,7 @@
           ],
           "name": "Champs blocs indicators",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/champs-blocs/tutorial.json",
@@ -2039,7 +2049,7 @@
           ],
           "name": "GBIF data Quality check and filtering workflow Feb-2020",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/gbif_cleaning/tutorial.json",
@@ -2055,6 +2065,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           },
           {
@@ -2243,7 +2258,7 @@
           ],
           "name": "Workflow constructed from history 'Tuto Obitools'",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/Obitools-metabarcoding/tutorial.json",
@@ -2285,7 +2300,11 @@
           }
         ],
         "inexact": [
-
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          }
         ]
       },
       "topic_name_human": "Ecology",
@@ -2493,7 +2512,7 @@
           ],
           "name": "preparing genomic data for phylogeny recostruction (GTN)",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/phylogeny-data-prep/tutorial.json",
@@ -2692,7 +2711,7 @@
           ],
           "name": "Sentinel 2 example",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/remote-sensing/tutorial.json",
@@ -2709,6 +2728,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           }
         ],
@@ -2882,7 +2906,7 @@
           ],
           "name": "Workflow Constructed From History 'STACKS RAD: Population Genomics With Reference Genome'",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         },
         {
           "workflow": "workflow.ga",
@@ -2898,7 +2922,7 @@
           ],
           "name": "Ref Based Rad Seq",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/ref-based-rad-seq/tutorial.json",
@@ -3131,7 +3155,7 @@
           ],
           "name": "Species Distribution Modeling With Wallace From GBIF - Training Material",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/species-distribution-modeling/tutorial.json",
@@ -3148,6 +3172,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
             "usegalaxy": "true"
           }
         ],
@@ -3294,7 +3323,7 @@
           ],
           "name": "Workflow 'Biodiversity data exploration tuto'",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/biodiversity-data-exploration/tutorial.json",
@@ -3318,7 +3347,11 @@
           }
         ],
         "inexact": [
-
+          {
+            "url": "https://usegalaxy.fr/",
+            "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          }
         ]
       },
       "topic_name_human": "Ecology",
@@ -3546,7 +3579,7 @@
           ],
           "name": "de novo Rad Seq",
           "test_results": null,
-          "modified": "2023-12-11 00:33:54 +0000"
+          "modified": "2023-12-12 00:33:18 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/de-novo-rad-seq/tutorial.json",
