@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2023-12-12T00:33:17.085+00:00",
+      "datePublished": "2023-12-13T00:32:52.441+00:00",
       "mainEntity": {
         "@id": "main_workflow.ga"
       }
@@ -36,7 +36,7 @@
           "@id": "https://orcid.org/https://orcid.org/0000-0002-6034-2016"
         },
         {
-          "@id": "#daab2a8c-fc66-4a9f-ad46-d4160d0d1f9f"
+          "@id": "#41e6c830-f424-4489-a002-d90c4e95526c"
         }
       ],
       "license": {
@@ -71,7 +71,7 @@
       "name": "Aurélien F. A. Moumbock"
     },
     {
-      "@id": "#daab2a8c-fc66-4a9f-ad46-d4160d0d1f9f",
+      "@id": "#41e6c830-f424-4489-a002-d90c4e95526c",
       "@type": "Organization",
       "name": "Albert-Ludwigs-Universität Freiburg"
     }
