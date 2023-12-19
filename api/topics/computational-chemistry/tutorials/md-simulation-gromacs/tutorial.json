@@ -68,7 +68,7 @@
       ],
       "name": "GROMACS Training Workflow",
       "test_results": null,
-      "modified": "2023-12-18 00:34:17 +0000"
+      "modified": "2023-12-19 00:33:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/md-simulation-gromacs/tutorial.json",
