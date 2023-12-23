@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2023-12-22T00:32:22.028+00:00",
+      "datePublished": "2023-12-23T00:31:50.833+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-tutorial_regionalgam_complete_multispecies.ga"
       }
