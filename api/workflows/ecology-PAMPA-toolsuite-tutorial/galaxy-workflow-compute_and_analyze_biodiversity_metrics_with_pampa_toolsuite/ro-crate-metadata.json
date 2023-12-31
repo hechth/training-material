@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2023-12-30T00:31:16.139+00:00",
+      "datePublished": "2023-12-31T00:35:32.128+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-compute_and_analyze_biodiversity_metrics_with_pampa_toolsuite.ga"
       }
