@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-01-09T00:33:43.997+00:00",
+      "datePublished": "2024-01-10T00:33:51.411+00:00",
       "mainEntity": {
         "@id": "main_workflow.ga"
       }
@@ -33,13 +33,13 @@
       ],
       "author": [
         {
-          "@id": "#247791e1-f171-4808-8748-eef4766ac076"
+          "@id": "#e197785f-6324-4274-b00c-b3d1fa4941d5"
         },
         {
           "@id": "https://orcid.org/0000-0001-9760-8992"
         },
         {
-          "@id": "#0c6bcfdb-5f99-428e-8a29-5251d310e0f8"
+          "@id": "#e022210b-3501-4871-8dba-193d5f443b4f"
         }
       ],
       "license": {
@@ -69,7 +69,7 @@
       "version": "23.1"
     },
     {
-      "@id": "#247791e1-f171-4808-8748-eef4766ac076",
+      "@id": "#e197785f-6324-4274-b00c-b3d1fa4941d5",
       "@type": "Organization",
       "name": "Avans Hogeschool"
     },
@@ -79,7 +79,7 @@
       "name": "Helena Rasche"
     },
     {
-      "@id": "#0c6bcfdb-5f99-428e-8a29-5251d310e0f8",
+      "@id": "#e022210b-3501-4871-8dba-193d5f443b4f",
       "@type": "Person",
       "name": "Miaomiao Zhou"
     }
