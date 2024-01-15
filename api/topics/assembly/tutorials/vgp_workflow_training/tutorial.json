@@ -108,7 +108,7 @@
       ],
       "name": "VGP assembly: training workflow",
       "test_results": null,
-      "modified": "2024-01-14 00:36:43 +0000"
+      "modified": "2024-01-15 00:35:55 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/vgp_workflow_training/tutorial.json",
