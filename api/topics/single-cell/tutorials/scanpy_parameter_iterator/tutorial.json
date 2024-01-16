@@ -79,7 +79,7 @@
       ],
       "name": "Scanpy Parameter Iterator workflow full (imported from URL)",
       "test_results": null,
-      "modified": "2024-01-15 00:35:58 +0000"
+      "modified": "2024-01-16 00:33:24 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scanpy_parameter_iterator/tutorial.json",

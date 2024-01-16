@@ -91,7 +91,7 @@
       ],
       "name": "MuSiC-Deconvolution: Data generation | bulk | ESet",
       "test_results": null,
-      "modified": "2024-01-15 00:35:58 +0000"
+      "modified": "2024-01-16 00:33:24 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/bulk-music-3-preparebulk/tutorial.json",
