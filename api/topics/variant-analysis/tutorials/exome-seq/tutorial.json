@@ -124,7 +124,7 @@
       ],
       "name": "Exome Seq Training Pre-Mapped W Cached Ref",
       "test_results": null,
-      "modified": "2024-01-20 00:33:08 +0000"
+      "modified": "2024-01-21 00:37:09 +0000"
     },
     {
       "workflow": "workflow_exome_seq_full.ga",
@@ -144,7 +144,7 @@
       ],
       "name": "Exome Seq Training Full W Cached Ref",
       "test_results": null,
-      "modified": "2024-01-20 00:33:08 +0000"
+      "modified": "2024-01-21 00:37:09 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/exome-seq/tutorial.json",
