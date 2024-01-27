@@ -99,7 +99,7 @@
         }
       ],
       "gtn_id": "single-cell/scrna-case_basic-pipeline",
-      "title": "Filter, Plot and Explore Single-cell RNA-seq Data",
+      "title": "Filter, plot and explore single-cell RNA-seq data (Scanpy)",
       "captioned": true
     },
     "slides": null,
@@ -124,7 +124,7 @@
       ],
       "name": "CS3_Filter, Plot and Explore Single-cell RNA-seq Data",
       "test_results": null,
-      "modified": "2024-01-26 00:31:53 +0000"
+      "modified": "2024-01-27 00:31:47 +0000"
     },
     {
       "workflow": "Filter,-Plot-and-Explore-Single-cell-RNA-seq-Data-updated.ga",
@@ -149,7 +149,7 @@
       ],
       "name": "Filter, Plot and Explore Single-cell RNA-seq Data updated",
       "test_results": null,
-      "modified": "2024-01-26 00:31:53 +0000"
+      "modified": "2024-01-27 00:31:47 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_basic-pipeline/tutorial.json",

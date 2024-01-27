@@ -70,7 +70,7 @@
         }
       ],
       "gtn_id": "metagenomics/taxonomic-profiling",
-      "title": "Taxonomic Profiling and Visualization of Metagenomic Data",
+      "title": "metagenomics/taxonomic-profiling/tutorial",
       "captioned": true
     },
     "slides": null,
@@ -99,7 +99,7 @@
       ],
       "name": "Taxonomic Profiling and Visualization of Metagenomic Data",
       "test_results": null,
-      "modified": "2024-01-26 00:31:52 +0000"
+      "modified": "2024-01-27 00:31:46 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/taxonomic-profiling/tutorial.json",
