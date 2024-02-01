@@ -135,7 +135,7 @@
           ],
           "name": "Classification LSVC",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         },
         {
           "workflow": "regression_GradientBoosting.ga",
@@ -151,7 +151,7 @@
           ],
           "name": "Regression GradientBoosting",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/classification_regression/tutorial.json",
@@ -163,11 +163,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -319,7 +314,7 @@
           ],
           "name": "Clustering in Machine Learning",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/clustering_machinelearning/tutorial.json",
@@ -330,11 +325,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -476,7 +466,7 @@
           ],
           "name": "papaa@0.1.9_PI3K_OG_model_tutorial",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/aberrant_pi3k_pathway_analysis/tutorial.json",
@@ -680,7 +670,7 @@
           ],
           "name": "Age Prediction DNA Methylation",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         },
         {
           "workflow": "age-prediction-rna.ga",
@@ -696,7 +686,7 @@
           ],
           "name": "Age Prediction RNA-Seq",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/age-prediction-with-ml/tutorial.json",
@@ -709,11 +699,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -914,7 +899,7 @@
           ],
           "name": "Intro_To_RNN_v1_0_10_0",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/RNN/tutorial.json",
@@ -945,11 +930,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.no/",
             "name": "UseGalaxy.no",
@@ -1097,7 +1077,7 @@
           ],
           "name": "Intro_To_Deep_Learning",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/intro_deep_learning/tutorial.json",
@@ -1110,11 +1090,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -1314,7 +1289,7 @@
           ],
           "name": "Regression (from training material)",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/regression_machinelearning/tutorial.json",
@@ -1354,11 +1329,7 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ]
       },
       "topic_name_human": "Statistics and machine learning",
@@ -1533,7 +1504,7 @@
           ],
           "name": "gpu_jupytool",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/gpu_jupyter_lab/tutorial.json",
@@ -1683,7 +1654,7 @@
           ],
           "name": "Intro_To_CNN",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/CNN/tutorial.json",
@@ -1872,7 +1843,7 @@
           ],
           "name": "Simtext training workflow",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/text-mining_simtext/tutorial.json",
@@ -2010,7 +1981,7 @@
           ],
           "name": "Workflow Constructed From History 'IWTomics Workflow'",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/iwtomics/tutorial.json",
@@ -2021,11 +1992,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -2212,7 +2178,7 @@
           ],
           "name": "Intro_To_FNN_v1_0_10_0",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/FNN/tutorial.json",
@@ -2242,11 +2208,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.no/",
             "name": "UseGalaxy.no",
@@ -2413,7 +2374,7 @@
           ],
           "name": "fruit_360",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/fruit_360/tutorial.json",
@@ -2664,7 +2625,7 @@
           ],
           "name": "ml_classification",
           "test_results": null,
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/classification_machinelearning/tutorial.json",
@@ -2709,11 +2670,7 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ]
       },
       "topic_name_human": "Statistics and machine learning",
@@ -3426,7 +3383,7 @@
               "version": "0.1"
             }
           },
-          "modified": "2024-01-31 00:31:51 +0000"
+          "modified": "2024-02-01 00:32:57 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/machinelearning/tutorial.json",
@@ -3435,11 +3392,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",

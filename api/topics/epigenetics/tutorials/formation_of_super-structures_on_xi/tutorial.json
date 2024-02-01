@@ -167,7 +167,7 @@
       ],
       "name": "GTN - ChIP Seq - Formation Of Super Structures On Xi",
       "test_results": null,
-      "modified": "2024-01-31 00:31:50 +0000"
+      "modified": "2024-02-01 00:32:55 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/formation_of_super-structures_on_xi/tutorial.json",
@@ -217,11 +217,6 @@
         "url": "https://galaxy.mesocentre.uca.fr",
         "name": "Galaxy@AuBi",
         "usegalaxy": "false"
-      },
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.no/",

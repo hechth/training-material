@@ -145,7 +145,7 @@
       ],
       "name": "GTN Proteogemics3 Novel Peptide Analysis",
       "test_results": null,
-      "modified": "2024-01-31 00:31:51 +0000"
+      "modified": "2024-02-01 00:32:56 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-novel-peptide-analysis/tutorial.json",
@@ -157,11 +157,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

@@ -119,7 +119,7 @@
       ],
       "name": "ATAC-seq GTM",
       "test_results": null,
-      "modified": "2024-01-31 00:31:49 +0000"
+      "modified": "2024-02-01 00:32:55 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",
@@ -145,11 +145,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.org",
         "name": "UseGalaxy.org (Main)",

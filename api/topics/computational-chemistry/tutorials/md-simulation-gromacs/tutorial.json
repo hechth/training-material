@@ -68,7 +68,7 @@
       ],
       "name": "GROMACS Training Workflow",
       "test_results": null,
-      "modified": "2024-01-31 00:31:48 +0000"
+      "modified": "2024-02-01 00:32:54 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/md-simulation-gromacs/tutorial.json",
@@ -109,11 +109,6 @@
         "url": "https://galaxy.mesocentre.uca.fr",
         "name": "Galaxy@AuBi",
         "usegalaxy": "false"
-      },
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.no/",

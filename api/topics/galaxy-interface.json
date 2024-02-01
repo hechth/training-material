@@ -187,7 +187,7 @@
           ],
           "name": "GTN Training: Workflow Reports - Galaxy 101 For Everyone",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         },
         {
           "workflow": "workflow_reports_final_workflow.ga",
@@ -203,7 +203,7 @@
           ],
           "name": "GTN Training: Workflow Reports",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-reports/tutorial.json",
@@ -245,11 +245,6 @@
             "url": "https://galaxy.mesocentre.uca.fr",
             "name": "Galaxy@AuBi",
             "usegalaxy": "false"
-          },
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
           }
         ]
       },
@@ -464,7 +459,7 @@
           ],
           "name": "Intermine import/export",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/intermine/tutorial.json",
@@ -474,11 +469,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -663,7 +653,7 @@
           ],
           "name": "vcf2lineage",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
@@ -676,11 +666,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -886,7 +871,7 @@
           ],
           "name": "Select First N Lines",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-parameters/tutorial.json",
@@ -909,11 +894,6 @@
             "url": "https://galaxy.hyphy.org/",
             "name": "HyPhy HIV NGS Tools",
             "usegalaxy": "false"
-          },
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -1069,7 +1049,7 @@
           ],
           "name": "GTN_ENA_upload_workflow",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
@@ -1191,7 +1171,7 @@
           ],
           "name": "Tutorial workflow",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         },
         {
           "workflow": "subworkflow.ga",
@@ -1207,7 +1187,7 @@
           ],
           "name": "Subworkflow",
           "test_results": null,
-          "modified": "2024-01-31 00:31:50 +0000"
+          "modified": "2024-02-01 00:32:55 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-editor/tutorial.json",
@@ -1222,11 +1202,6 @@
             "url": "https://galaxy.mesocentre.uca.fr",
             "name": "Galaxy@AuBi",
             "usegalaxy": "false"
-          },
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -1554,11 +1529,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.org",
             "name": "UseGalaxy.org (Main)",
@@ -2619,11 +2589,6 @@
             "usegalaxy": "false"
           },
           {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
             "usegalaxy": "true"
@@ -3501,11 +3466,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",

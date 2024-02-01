@@ -164,7 +164,7 @@
       ],
       "name": "Galaxy Introduction Peaks2Genes - Part 1",
       "test_results": null,
-      "modified": "2024-01-31 00:31:50 +0000"
+      "modified": "2024-02-01 00:32:56 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.json",
@@ -204,11 +204,7 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      }
+
     ]
   },
   "topic_name_human": "Introduction to Galaxy Analyses",
