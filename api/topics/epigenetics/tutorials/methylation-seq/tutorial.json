@@ -69,7 +69,7 @@
       ],
       "name": "Workflow Methylation Seq",
       "test_results": null,
-      "modified": "2024-02-01 00:32:55 +0000"
+      "modified": "2024-02-02 00:31:51 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/methylation-seq/tutorial.json",
@@ -102,6 +102,11 @@
         "url": "https://galaxy.hyphy.org/",
         "name": "HyPhy HIV NGS Tools",
         "usegalaxy": "false"
+      },
+      {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.no/",

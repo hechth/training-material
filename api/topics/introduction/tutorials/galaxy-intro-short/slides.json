@@ -64,7 +64,7 @@
       ],
       "name": "Galaxy Intro Short",
       "test_results": null,
-      "modified": "2024-02-01 00:32:56 +0000"
+      "modified": "2024-02-02 00:31:52 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-short/tutorial.json",
@@ -96,6 +96,11 @@
         "url": "https://galaxytrakr.org/",
         "name": "GalaxyTrakr",
         "usegalaxy": "false"
+      },
+      {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.fr/",

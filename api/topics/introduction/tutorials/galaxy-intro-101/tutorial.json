@@ -1249,7 +1249,7 @@
           "version": "0.1"
         }
       },
-      "modified": "2024-02-01 00:32:56 +0000"
+      "modified": "2024-02-02 00:31:52 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-101/tutorial.json",
@@ -1267,6 +1267,11 @@
         "url": "https://galaxytrakr.org/",
         "name": "GalaxyTrakr",
         "usegalaxy": "false"
+      },
+      {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.eu",

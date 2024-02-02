@@ -67,7 +67,7 @@
       ],
       "name": "Unicycler training",
       "test_results": null,
-      "modified": "2024-02-01 00:32:53 +0000"
+      "modified": "2024-02-02 00:31:50 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
@@ -80,6 +80,11 @@
   ],
   "supported_servers": {
     "exact": [
+      {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

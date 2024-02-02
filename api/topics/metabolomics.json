@@ -131,7 +131,7 @@
           ],
           "name": "Workflow Constructed From History 'imported: testpourGCC'",
           "test_results": null,
-          "modified": "2024-02-01 00:32:56 +0000"
+          "modified": "2024-02-02 00:31:52 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
@@ -369,7 +369,7 @@
           ],
           "name": "MSI Workflow: spatial distribution",
           "test_results": null,
-          "modified": "2024-02-01 00:32:56 +0000"
+          "modified": "2024-02-02 00:31:52 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
@@ -396,6 +396,11 @@
             "url": "https://galaxy.hyphy.org/",
             "name": "HyPhy HIV NGS Tools",
             "usegalaxy": "false"
+          },
+          {
+            "url": "https://usegalaxy.be/",
+            "name": "UseGalaxy.be",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.fr/",
@@ -567,7 +572,7 @@
           ],
           "name": "MSI Finding Diff Analytes",
           "test_results": null,
-          "modified": "2024-02-01 00:32:56 +0000"
+          "modified": "2024-02-02 00:31:52 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
@@ -587,6 +592,11 @@
       ],
       "supported_servers": {
         "exact": [
+          {
+            "url": "https://usegalaxy.be/",
+            "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -774,7 +784,7 @@
           ],
           "name": "GC MS using XCMS",
           "test_results": null,
-          "modified": "2024-02-01 00:32:56 +0000"
+          "modified": "2024-02-02 00:31:52 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
