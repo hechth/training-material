@@ -63,7 +63,7 @@
       ],
       "name": "Tutorial workflow",
       "test_results": null,
-      "modified": "2024-02-05 00:32:46 +0000"
+      "modified": "2024-02-06 00:31:16 +0000"
     },
     {
       "workflow": "subworkflow.ga",
@@ -79,7 +79,7 @@
       ],
       "name": "Subworkflow",
       "test_results": null,
-      "modified": "2024-02-05 00:32:46 +0000"
+      "modified": "2024-02-06 00:31:16 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-editor/tutorial.json",
@@ -96,6 +96,11 @@
         "usegalaxy": "false"
       },
       {
+        "url": "https://mississippi.sorbonne-universite.fr",
+        "name": "MISSISSIPPI",
+        "usegalaxy": "false"
+      },
+      {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",
         "usegalaxy": "true"
@@ -103,6 +108,11 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.fr/",
+        "name": "UseGalaxy.fr",
         "usegalaxy": "true"
       },
       {

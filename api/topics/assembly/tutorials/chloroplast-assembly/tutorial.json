@@ -93,7 +93,7 @@
       ],
       "name": "Chloroplast-genome-assembly-and-annotation",
       "test_results": null,
-      "modified": "2024-02-05 00:32:44 +0000"
+      "modified": "2024-02-06 00:31:14 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/chloroplast-assembly/tutorial.json",
@@ -130,6 +130,11 @@
       {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.fr/",
+        "name": "UseGalaxy.fr",
         "usegalaxy": "true"
       },
       {

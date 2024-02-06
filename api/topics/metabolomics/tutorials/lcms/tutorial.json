@@ -86,7 +86,7 @@
       ],
       "name": "Workflow Constructed From History 'imported: testpourGCC'",
       "test_results": null,
-      "modified": "2024-02-05 00:32:47 +0000"
+      "modified": "2024-02-06 00:31:16 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
@@ -113,6 +113,11 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.fr/",
+        "name": "UseGalaxy.fr",
         "usegalaxy": "true"
       },
       {
