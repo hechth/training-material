@@ -61,7 +61,7 @@
       ],
       "name": "Training: 16S rRNA Analysis with Nanopore Sequencing Reads",
       "test_results": null,
-      "modified": "2024-02-16 00:30:58 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/nanopore-16S-metagenomics/tutorial.json",
@@ -78,11 +78,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

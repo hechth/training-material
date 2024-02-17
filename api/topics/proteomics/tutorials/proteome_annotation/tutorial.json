@@ -116,7 +116,7 @@
       ],
       "name": "'Proteome Annotation'",
       "test_results": null,
-      "modified": "2024-02-16 00:30:58 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     },
     {
       "workflow": "main_workflow.ga",
@@ -132,7 +132,7 @@
       ],
       "name": "ProteoRE ProteomeAnnotation Tutorial (release 2.0)",
       "test_results": null,
-      "modified": "2024-02-16 00:30:58 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteome_annotation/tutorial.json",
@@ -148,11 +148,7 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      }
+
     ],
     "inexact": [
       {

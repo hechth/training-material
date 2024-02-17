@@ -119,7 +119,7 @@
       ],
       "name": "Proteomics: MaxQuant and MSstats LFQ workflow",
       "test_results": null,
-      "modified": "2024-02-16 00:30:58 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-dda-lfq/tutorial.json",
@@ -148,11 +148,6 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.no/",
         "name": "UseGalaxy.no",

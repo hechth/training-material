@@ -81,7 +81,7 @@
       ],
       "name": "Microbial Variant Calling",
       "test_results": null,
-      "modified": "2024-02-16 00:30:59 +0000"
+      "modified": "2024-02-17 00:31:07 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/microbial-variants/tutorial.json",
@@ -91,11 +91,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

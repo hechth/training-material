@@ -69,7 +69,7 @@
       ],
       "name": "CHROMEISTER chromosome comparison",
       "test_results": null,
-      "modified": "2024-02-16 00:30:57 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     },
     {
       "workflow": "GECKO_pairwise_comparison.ga",
@@ -85,7 +85,7 @@
       ],
       "name": "GECKO pairwise comparison",
       "test_results": null,
-      "modified": "2024-02-16 00:30:57 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/hpc-for-lsgc/tutorial.json",
@@ -97,11 +97,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

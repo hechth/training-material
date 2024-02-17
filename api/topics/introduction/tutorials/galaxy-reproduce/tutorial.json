@@ -74,7 +74,7 @@
       ],
       "name": "GTN Training: Galaxy 101 For Everyone",
       "test_results": null,
-      "modified": "2024-02-16 00:30:57 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-reproduce/tutorial.json",
@@ -94,11 +94,6 @@
         "url": "https://galaxy.mesocentre.uca.fr",
         "name": "Galaxy@AuBi",
         "usegalaxy": "false"
-      },
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.eu",

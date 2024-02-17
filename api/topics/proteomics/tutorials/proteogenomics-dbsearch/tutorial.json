@@ -157,7 +157,7 @@
       ],
       "name": "GTN Proteogemics2 Database Search",
       "test_results": null,
-      "modified": "2024-02-16 00:30:58 +0000"
+      "modified": "2024-02-17 00:31:05 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbsearch/tutorial.json",
@@ -192,11 +192,7 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      }
+
     ]
   },
   "topic_name_human": "Proteomics",

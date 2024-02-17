@@ -259,7 +259,7 @@
           ],
           "name": "Circos tutorial",
           "test_results": null,
-          "modified": "2024-02-16 00:30:59 +0000"
+          "modified": "2024-02-17 00:31:07 +0000"
         },
         {
           "workflow": "nature_workflow.ga",
@@ -284,7 +284,7 @@
           ],
           "name": "Circos: Nature workflow",
           "test_results": null,
-          "modified": "2024-02-16 00:30:59 +0000"
+          "modified": "2024-02-17 00:31:07 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
@@ -319,11 +319,6 @@
             "url": "https://mississippi.sorbonne-universite.fr",
             "name": "MISSISSIPPI",
             "usegalaxy": "false"
-          },
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -433,7 +428,7 @@
           ],
           "name": "Circos for E. Coli",
           "test_results": null,
-          "modified": "2024-02-16 00:30:59 +0000"
+          "modified": "2024-02-17 00:31:07 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos-microbial/tutorial.json",
@@ -465,11 +460,6 @@
             "url": "https://mississippi.sorbonne-universite.fr",
             "name": "MISSISSIPPI",
             "usegalaxy": "false"
-          },
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -730,11 +720,6 @@
             "url": "https://galaxy.mesocentre.uca.fr",
             "name": "Galaxy@AuBi",
             "usegalaxy": "false"
-          },
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
