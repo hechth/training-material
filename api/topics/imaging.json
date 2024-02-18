@@ -120,7 +120,7 @@
           ],
           "name": "CP_pipeline_IDR_training",
           "test_results": null,
-          "modified": "2024-02-17 00:31:05 +0000"
+          "modified": "2024-02-18 00:34:04 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/tutorial-CP/tutorial.json",
@@ -428,7 +428,7 @@
           ],
           "name": "Analyze Screen",
           "test_results": null,
-          "modified": "2024-02-17 00:31:05 +0000"
+          "modified": "2024-02-18 00:34:04 +0000"
         },
         {
           "workflow": "feature_extraction.ga",
@@ -444,7 +444,7 @@
           ],
           "name": "Feature Extraction",
           "test_results": null,
-          "modified": "2024-02-17 00:31:05 +0000"
+          "modified": "2024-02-18 00:34:04 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json",
@@ -658,7 +658,7 @@
           ],
           "name": "CP_object_tracking_example",
           "test_results": null,
-          "modified": "2024-02-17 00:31:05 +0000"
+          "modified": "2024-02-18 00:34:04 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/object-tracking-using-cell-profiler/tutorial.json",
@@ -916,7 +916,7 @@
           ],
           "name": "GTN Training: Introduction To Imaging",
           "test_results": null,
-          "modified": "2024-02-17 00:31:05 +0000"
+          "modified": "2024-02-18 00:34:04 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/imaging-introduction/tutorial.json",
@@ -1160,7 +1160,7 @@
           ],
           "name": "GTN_Exemplar_002_TMA_workflow",
           "test_results": null,
-          "modified": "2024-02-17 00:31:05 +0000"
+          "modified": "2024-02-18 00:34:04 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/multiplex-tissue-imaging-TMA/tutorial.json",
