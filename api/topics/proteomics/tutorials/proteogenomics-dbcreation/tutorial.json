@@ -145,7 +145,7 @@
       ],
       "name": "GTN Proteogenomics1 Database Creation",
       "test_results": null,
-      "modified": "2024-02-18 00:34:04 +0000"
+      "modified": "2024-02-19 00:33:21 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbcreation/tutorial.json",
@@ -170,6 +170,11 @@
   ],
   "supported_servers": {
     "exact": [
+      {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
