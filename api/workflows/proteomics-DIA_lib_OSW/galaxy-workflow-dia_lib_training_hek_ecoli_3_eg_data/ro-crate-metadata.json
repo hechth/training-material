@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-02-20T00:31:02.313+00:00",
+      "datePublished": "2024-02-21T00:31:16.684+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-dia_lib_training_hek_ecoli_3_eg_data.ga"
       }
