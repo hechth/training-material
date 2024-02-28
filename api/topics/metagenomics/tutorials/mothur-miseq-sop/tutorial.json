@@ -109,7 +109,7 @@
       ],
       "name": "Training: 16S rRNA Sequencing With Mothur: Main Tutorial",
       "test_results": null,
-      "modified": "2024-02-27 00:31:08 +0000"
+      "modified": "2024-02-28 00:34:00 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.json",
@@ -150,11 +150,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

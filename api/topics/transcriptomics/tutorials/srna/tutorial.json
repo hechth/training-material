@@ -58,7 +58,7 @@
       ],
       "name": "sRNA Seq Step 1: Read Pre Processing And Removal Of Artifacts (no Grooming)",
       "test_results": null,
-      "modified": "2024-02-27 00:31:09 +0000"
+      "modified": "2024-02-28 00:34:01 +0000"
     },
     {
       "workflow": "sRNA_seq_Step_2_Salmon_and_DESeq2.ga",
@@ -74,7 +74,7 @@
       ],
       "name": "sRNA Seq Step 2: Salmon And DESeq2",
       "test_results": null,
-      "modified": "2024-02-27 00:31:09 +0000"
+      "modified": "2024-02-28 00:34:01 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/srna/tutorial.json",
@@ -91,11 +91,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

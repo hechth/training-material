@@ -103,7 +103,7 @@
       ],
       "name": "GTN - Sequence Analyses - Removal of human reads from SARS-CoV-2 sequencing data",
       "test_results": null,
-      "modified": "2024-02-27 00:31:08 +0000"
+      "modified": "2024-02-28 00:34:00 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
@@ -146,11 +146,6 @@
         "url": "https://galaxytrakr.org/",
         "name": "GalaxyTrakr",
         "usegalaxy": "false"
-      },
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.eu",

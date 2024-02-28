@@ -116,7 +116,7 @@
       ],
       "name": "NGS_tutorial",
       "test_results": null,
-      "modified": "2024-02-27 00:31:08 +0000"
+      "modified": "2024-02-28 00:33:59 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-ngs-data-managment/tutorial.json",
@@ -162,11 +162,6 @@
         "url": "https://mississippi.sorbonne-universite.fr",
         "name": "MISSISSIPPI",
         "usegalaxy": "false"
-      },
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.fr/",

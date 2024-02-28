@@ -210,7 +210,7 @@
           ],
           "name": "DIA_analysis_MSstats",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-DIA_MSstats_Training_msstats_input_tabular.ga",
@@ -226,7 +226,7 @@
           ],
           "name": "DIA_analysis_MSstats",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_MSstats/tutorial.json",
@@ -238,11 +238,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -388,7 +383,7 @@
           ],
           "name": "Tails Triple Dimethyl OpenMS2.1",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/ntails/tutorial.json",
@@ -563,7 +558,7 @@
           ],
           "name": "Proteomics: MaxQuant and MSstats LFQ workflow",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-dda-lfq/tutorial.json",
@@ -592,11 +587,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.no/",
             "name": "UseGalaxy.no",
@@ -815,7 +805,7 @@
           ],
           "name": "metaQuantome_datacreation_workflow",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaquantome-data-creation/tutorial.json",
@@ -845,11 +835,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.no/",
             "name": "UseGalaxy.no",
@@ -1043,7 +1028,7 @@
           ],
           "name": "Proteomics: MaxQuant workflow",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-label-free/tutorial.json",
@@ -1059,11 +1044,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -1296,7 +1276,7 @@
           ],
           "name": "GTN Proteogenomics1 Database Creation",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbcreation/tutorial.json",
@@ -1321,11 +1301,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -1624,7 +1599,7 @@
           ],
           "name": "metaquantome-taxonomy-workflow",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaquantome-taxonomy/tutorial.json",
@@ -1638,11 +1613,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -1817,7 +1787,7 @@
           ],
           "name": "DIA_Analysis_OSW",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_OSW/tutorial.json",
@@ -2066,7 +2036,7 @@
           ],
           "name": "Metaproteomics_GTN",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaproteomics/tutorial.json",
@@ -2101,11 +2071,7 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ]
       },
       "topic_name_human": "Proteomics",
@@ -2338,7 +2304,7 @@
           ],
           "name": "May19 EncyclopeDIA raw inputs",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/encyclopedia/tutorial.json",
@@ -2520,7 +2486,7 @@
           ],
           "name": "Peptide And Protein ID Tutorial",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         },
         {
           "workflow": "wf_proteinID_SG_PS_multipleFiles.ga",
@@ -2536,7 +2502,7 @@
           ],
           "name": "ProteinID SG PS Tutorial WF datasetCollection",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-id-sg-ps/tutorial.json",
@@ -2731,7 +2697,7 @@
           ],
           "name": "metaquantome-function-worklow",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaquantome-function/tutorial.json",
@@ -2758,11 +2724,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.no/",
             "name": "UseGalaxy.no",
@@ -3032,7 +2993,7 @@
           ],
           "name": "GTN Proteogemics3 Novel Peptide Analysis",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-novel-peptide-analysis/tutorial.json",
@@ -3044,11 +3005,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -3211,7 +3167,7 @@
           ],
           "name": "'Biomarkers4Paris' Workflow",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/biomarker_selection/tutorial.json",
@@ -3230,11 +3186,6 @@
 
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
@@ -3483,7 +3434,7 @@
           ],
           "name": "GTN Proteogemics2 Database Search",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbsearch/tutorial.json",
@@ -3518,11 +3469,7 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ]
       },
       "topic_name_human": "Proteomics",
@@ -3652,7 +3599,7 @@
           ],
           "name": "Copy of PeptideDataAnalysis (imported from uploaded file)",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/peptide-library-data-analysis/tutorial.json",
@@ -3668,11 +3615,7 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ],
         "inexact": [
 
@@ -3844,7 +3787,7 @@
           ],
           "name": "MaxQuant MSstatsTMT Training",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-tmt/tutorial.json",
@@ -3978,7 +3921,7 @@
           ],
           "name": "PeptideML",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/tutorial.json",
@@ -3991,11 +3934,7 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ],
         "inexact": [
 
@@ -4143,7 +4082,7 @@
           ],
           "name": "Secreted Proteins Via GO Annotation And WoLF PSORT For shCTSB Paper",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/secretome-prediction/tutorial.json",
@@ -4336,7 +4275,7 @@
           ],
           "name": "Proteomics: Peptide and Protein ID using OpenMS",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         },
         {
           "workflow": "workflow_two-search-engines.ga",
@@ -4352,7 +4291,7 @@
           ],
           "name": "Peptide And Protein ID Via OMS Using Two Search Engines",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-id-oms/tutorial.json",
@@ -4694,7 +4633,7 @@
           ],
           "name": "'Proteome Annotation'",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         },
         {
           "workflow": "main_workflow.ga",
@@ -4710,7 +4649,7 @@
           ],
           "name": "ProteoRE ProteomeAnnotation Tutorial (release 2.0)",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteome_annotation/tutorial.json",
@@ -4726,11 +4665,7 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          }
+
         ],
         "inexact": [
           {
@@ -4900,7 +4835,7 @@
           ],
           "name": "DIA_lib_OSW",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_lib_OSW/tutorial.json",
@@ -5121,7 +5056,7 @@
           ],
           "name": "Proteomics: Peptide and Protein Quantification via stable istobe labeling",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-quant-sil/tutorial.json",
@@ -5385,7 +5320,7 @@
           ],
           "name": "MS Imaging Loading Exploring Data",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/tutorial.json",
@@ -5397,11 +5332,6 @@
       ],
       "supported_servers": {
         "exact": [
-          {
-            "url": "https://usegalaxy.be/",
-            "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -5557,7 +5487,7 @@
           ],
           "name": "Proteomics: database handling",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         },
         {
           "workflow": "wf_database-handling_mycoplasma.ga",
@@ -5573,7 +5503,7 @@
           ],
           "name": "Proteomics: database handling including mycoplasma",
           "test_results": null,
-          "modified": "2024-02-27 00:31:08 +0000"
+          "modified": "2024-02-28 00:34:00 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/database-handling/tutorial.json",

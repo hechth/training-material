@@ -111,7 +111,7 @@
       ],
       "name": "Regression (from training material)",
       "test_results": null,
-      "modified": "2024-02-27 00:31:09 +0000"
+      "modified": "2024-02-28 00:34:00 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/regression_machinelearning/tutorial.json",
@@ -151,11 +151,7 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://usegalaxy.be/",
-        "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      }
+
     ]
   },
   "topic_name_human": "Statistics and machine learning",
