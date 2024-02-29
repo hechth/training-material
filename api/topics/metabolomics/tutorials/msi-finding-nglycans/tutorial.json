@@ -76,7 +76,7 @@
       ],
       "name": "MSI Finding Diff Analytes",
       "test_results": null,
-      "modified": "2024-02-28 00:33:59 +0000"
+      "modified": "2024-02-29 00:31:25 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
@@ -96,6 +96,11 @@
   ],
   "supported_servers": {
     "exact": [
+      {
+        "url": "https://usegalaxy.be/",
+        "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
