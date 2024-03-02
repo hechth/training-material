@@ -157,7 +157,7 @@
       ],
       "name": "GTN Proteogemics2 Database Search",
       "test_results": null,
-      "modified": "2024-03-01 00:35:38 +0000"
+      "modified": "2024-03-02 00:30:39 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbsearch/tutorial.json",
