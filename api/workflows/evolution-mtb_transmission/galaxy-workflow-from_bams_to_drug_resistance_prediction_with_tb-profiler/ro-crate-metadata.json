@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-03-06T00:31:44.796+00:00",
+      "datePublished": "2024-03-07T00:25:50.356+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-from_bams_to_drug_resistance_prediction_with_tb-profiler.ga"
       }
