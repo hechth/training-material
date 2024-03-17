@@ -191,7 +191,7 @@
           ],
           "name": "Pathway Analysis",
           "test_results": null,
-          "modified": "2024-03-16 00:30:24 +0000"
+          "modified": "2024-03-17 00:34:46 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/pathway_analysis/tutorial.json",
@@ -404,7 +404,7 @@
           ],
           "name": "Genetic Design (BASIC Assembly)",
           "test_results": null,
-          "modified": "2024-03-16 00:30:24 +0000"
+          "modified": "2024-03-17 00:34:46 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/basic_assembly_analysis/tutorial.json",
@@ -605,7 +605,7 @@
           ],
           "name": "RetroSynthesis",
           "test_results": null,
-          "modified": "2024-03-16 00:30:24 +0000"
+          "modified": "2024-03-17 00:34:46 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/synthetic-biology/tutorials/retrosynthesis_analysis/tutorial.json",
