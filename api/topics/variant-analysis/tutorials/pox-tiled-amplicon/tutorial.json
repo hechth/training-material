@@ -84,7 +84,7 @@
       ],
       "name": "pox-virus-tiled-amplicon-ref-masking",
       "test_results": null,
-      "modified": "2024-03-18 00:33:03 +0000"
+      "modified": "2024-03-19 00:31:43 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/pox-tiled-amplicon/tutorial.json",
@@ -194,14 +194,14 @@
       {
         "name": "ivar_consensus",
         "owner": "iuc",
-        "revisions": "17f911830a8c",
+        "revisions": "40737febe339",
         "tool_panel_section_label": "Virology",
         "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
       },
       {
         "name": "ivar_trim",
         "owner": "iuc",
-        "revisions": "0893a1dbb807",
+        "revisions": "86a20ae274fc",
         "tool_panel_section_label": "Virology",
         "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
       },
@@ -256,7 +256,7 @@
       }
     ]
   },
-  "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools:\n- name: text_processing\n  owner: bgruening\n  revisions: d698c222f354\n  tool_panel_section_label: Text Manipulation\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: bwa\n  owner: devteam\n  revisions: e188dc7a68e6\n  tool_panel_section_label: Mapping\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: column_maker\n  owner: devteam\n  revisions: 6595517c2dd8\n  tool_panel_section_label: Text Manipulation\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: emboss_5\n  owner: devteam\n  revisions: 63dd26468588\n  tool_panel_section_label: EMBOSS\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: fasta_compute_length\n  owner: devteam\n  revisions: 7d37cfda8e00\n  tool_panel_section_label: FASTA/FASTQ\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: compose_text_param\n  owner: iuc\n  revisions: e188c9826e0f\n  tool_panel_section_label: Expression Tools\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: datamash_ops\n  owner: iuc\n  revisions: 746e8e4bf929\n  tool_panel_section_label: Join, Subtract and Group\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: fastp\n  owner: iuc\n  revisions: 65b93b623c77\n  tool_panel_section_label: FASTA/FASTQ\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: ivar_consensus\n  owner: iuc\n  revisions: 17f911830a8c\n  tool_panel_section_label: Virology\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: ivar_trim\n  owner: iuc\n  revisions: '0893a1dbb807'\n  tool_panel_section_label: Virology\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: qualimap_bamqc\n  owner: iuc\n  revisions: 19ece8afbaab\n  tool_panel_section_label: SAM/BAM\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: samtools_merge\n  owner: iuc\n  revisions: 36677f429310\n  tool_panel_section_label: SAM/BAM\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: samtools_view\n  owner: iuc\n  revisions: 5826298f6a73\n  tool_panel_section_label: SAM/BAM\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: ucsc_fatovcf\n  owner: iuc\n  revisions: 78df8fc2b3ab\n  tool_panel_section_label: Variant Calling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: fasta_regex_finder\n  owner: mbernt\n  revisions: 9a811adb714f\n  tool_panel_section_label: FASTA/FASTQ\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: mafft\n  owner: rnateam\n  revisions: a65296ffb4a0\n  tool_panel_section_label: Multiple Alignments\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: mimodd_main\n  owner: wolma\n  revisions: f0f2795de2c7\n  tool_panel_section_label: MiModD\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n",
+  "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools:\n- name: text_processing\n  owner: bgruening\n  revisions: d698c222f354\n  tool_panel_section_label: Text Manipulation\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: bwa\n  owner: devteam\n  revisions: e188dc7a68e6\n  tool_panel_section_label: Mapping\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: column_maker\n  owner: devteam\n  revisions: 6595517c2dd8\n  tool_panel_section_label: Text Manipulation\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: emboss_5\n  owner: devteam\n  revisions: 63dd26468588\n  tool_panel_section_label: EMBOSS\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: fasta_compute_length\n  owner: devteam\n  revisions: 7d37cfda8e00\n  tool_panel_section_label: FASTA/FASTQ\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: compose_text_param\n  owner: iuc\n  revisions: e188c9826e0f\n  tool_panel_section_label: Expression Tools\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: datamash_ops\n  owner: iuc\n  revisions: 746e8e4bf929\n  tool_panel_section_label: Join, Subtract and Group\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: fastp\n  owner: iuc\n  revisions: 65b93b623c77\n  tool_panel_section_label: FASTA/FASTQ\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: ivar_consensus\n  owner: iuc\n  revisions: 40737febe339\n  tool_panel_section_label: Virology\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: ivar_trim\n  owner: iuc\n  revisions: 86a20ae274fc\n  tool_panel_section_label: Virology\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: qualimap_bamqc\n  owner: iuc\n  revisions: 19ece8afbaab\n  tool_panel_section_label: SAM/BAM\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: samtools_merge\n  owner: iuc\n  revisions: 36677f429310\n  tool_panel_section_label: SAM/BAM\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: samtools_view\n  owner: iuc\n  revisions: 5826298f6a73\n  tool_panel_section_label: SAM/BAM\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: ucsc_fatovcf\n  owner: iuc\n  revisions: 78df8fc2b3ab\n  tool_panel_section_label: Variant Calling\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: fasta_regex_finder\n  owner: mbernt\n  revisions: 9a811adb714f\n  tool_panel_section_label: FASTA/FASTQ\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: mafft\n  owner: rnateam\n  revisions: a65296ffb4a0\n  tool_panel_section_label: Multiple Alignments\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: mimodd_main\n  owner: wolma\n  revisions: f0f2795de2c7\n  tool_panel_section_label: MiModD\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n",
   "tours": false,
   "video": false,
   "translations": {
