@@ -73,7 +73,7 @@
       ],
       "name": "MSI Workflow: spatial distribution",
       "test_results": null,
-      "modified": "2024-03-20 00:31:37 +0000"
+      "modified": "2024-03-21 00:35:41 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
@@ -99,6 +99,11 @@
       {
         "url": "https://galaxy.hyphy.org/",
         "name": "HyPhy HIV NGS Tools",
+        "usegalaxy": "false"
+      },
+      {
+        "url": "https://galaxy.metacentrum.cz/",
+        "name": "MetaCentrum",
         "usegalaxy": "false"
       },
       {

@@ -102,7 +102,7 @@
       ],
       "name": "Clustering 3K PBMCs With Scanpy",
       "test_results": null,
-      "modified": "2024-03-20 00:31:38 +0000"
+      "modified": "2024-03-21 00:35:42 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
@@ -136,6 +136,11 @@
       }
     ],
     "inexact": [
+      {
+        "url": "https://galaxy.metacentrum.cz/",
+        "name": "MetaCentrum",
+        "usegalaxy": "false"
+      },
       {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",

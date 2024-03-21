@@ -115,7 +115,7 @@
       ],
       "name": "ml_classification",
       "test_results": null,
-      "modified": "2024-03-20 00:31:38 +0000"
+      "modified": "2024-03-21 00:35:42 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/classification_machinelearning/tutorial.json",
@@ -138,6 +138,11 @@
   ],
   "supported_servers": {
     "exact": [
+      {
+        "url": "https://galaxy.metacentrum.cz/",
+        "name": "MetaCentrum",
+        "usegalaxy": "false"
+      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

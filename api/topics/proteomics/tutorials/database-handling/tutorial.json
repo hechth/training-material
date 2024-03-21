@@ -82,7 +82,7 @@
       ],
       "name": "Proteomics: database handling",
       "test_results": null,
-      "modified": "2024-03-20 00:31:37 +0000"
+      "modified": "2024-03-21 00:35:41 +0000"
     },
     {
       "workflow": "wf_database-handling_mycoplasma.ga",
@@ -98,7 +98,7 @@
       ],
       "name": "Proteomics: database handling including mycoplasma",
       "test_results": null,
-      "modified": "2024-03-20 00:31:37 +0000"
+      "modified": "2024-03-21 00:35:41 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/database-handling/tutorial.json",
@@ -124,6 +124,11 @@
       }
     ],
     "inexact": [
+      {
+        "url": "https://galaxy.metacentrum.cz/",
+        "name": "MetaCentrum",
+        "usegalaxy": "false"
+      },
       {
         "url": "https://usegalaxy.no/",
         "name": "UseGalaxy.no",

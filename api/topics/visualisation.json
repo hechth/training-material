@@ -134,7 +134,7 @@
           ],
           "name": "Circos for E. Coli",
           "test_results": null,
-          "modified": "2024-03-20 00:31:39 +0000"
+          "modified": "2024-03-21 00:35:42 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos-microbial/tutorial.json",
@@ -165,6 +165,11 @@
           {
             "url": "https://mississippi.sorbonne-universite.fr",
             "name": "MISSISSIPPI",
+            "usegalaxy": "false"
+          },
+          {
+            "url": "https://galaxy.metacentrum.cz/",
+            "name": "MetaCentrum",
             "usegalaxy": "false"
           },
           {
@@ -502,7 +507,7 @@
           ],
           "name": "Circos tutorial",
           "test_results": null,
-          "modified": "2024-03-20 00:31:39 +0000"
+          "modified": "2024-03-21 00:35:42 +0000"
         },
         {
           "workflow": "nature_workflow.ga",
@@ -527,7 +532,7 @@
           ],
           "name": "Circos: Nature workflow",
           "test_results": null,
-          "modified": "2024-03-20 00:31:39 +0000"
+          "modified": "2024-03-21 00:35:42 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
@@ -561,6 +566,11 @@
           {
             "url": "https://mississippi.sorbonne-universite.fr",
             "name": "MISSISSIPPI",
+            "usegalaxy": "false"
+          },
+          {
+            "url": "https://galaxy.metacentrum.cz/",
+            "name": "MetaCentrum",
             "usegalaxy": "false"
           },
           {
@@ -907,6 +917,11 @@
           {
             "url": "https://mississippi.sorbonne-universite.fr",
             "name": "MISSISSIPPI",
+            "usegalaxy": "false"
+          },
+          {
+            "url": "https://galaxy.metacentrum.cz/",
+            "name": "MetaCentrum",
             "usegalaxy": "false"
           }
         ]

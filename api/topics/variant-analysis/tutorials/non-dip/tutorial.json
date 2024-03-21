@@ -69,7 +69,7 @@
       ],
       "name": "Calling variants in non-diploid systems",
       "test_results": null,
-      "modified": "2024-03-20 00:31:38 +0000"
+      "modified": "2024-03-21 00:35:42 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/non-dip/tutorial.json",
@@ -111,6 +111,11 @@
       }
     ],
     "inexact": [
+      {
+        "url": "https://galaxy.metacentrum.cz/",
+        "name": "MetaCentrum",
+        "usegalaxy": "false"
+      },
       {
         "url": "https://usegalaxy.no/",
         "name": "UseGalaxy.no",
