@@ -124,7 +124,7 @@
       ],
       "name": "Exome Seq Training Pre-Mapped W Cached Ref",
       "test_results": null,
-      "modified": "2024-03-21 00:35:42 +0000"
+      "modified": "2024-03-22 00:31:36 +0000"
     },
     {
       "workflow": "workflow_exome_seq_full.ga",
@@ -144,7 +144,7 @@
       ],
       "name": "Exome Seq Training Full W Cached Ref",
       "test_results": null,
-      "modified": "2024-03-21 00:35:42 +0000"
+      "modified": "2024-03-22 00:31:36 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/exome-seq/tutorial.json",
@@ -165,9 +165,9 @@
   "supported_servers": {
     "exact": [
       {
-        "url": "https://galaxy.metacentrum.cz/",
-        "name": "MetaCentrum",
-        "usegalaxy": "false"
+        "url": "https://usegalaxy.cz/",
+        "name": "UseGalaxy.cz",
+        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.eu",

@@ -130,7 +130,7 @@
       ],
       "name": "Funannotate",
       "test_results": null,
-      "modified": "2024-03-21 00:35:41 +0000"
+      "modified": "2024-03-22 00:31:34 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/funannotate/tutorial.json",
@@ -170,13 +170,13 @@
     ],
     "inexact": [
       {
-        "url": "https://galaxy.metacentrum.cz/",
-        "name": "MetaCentrum",
-        "usegalaxy": "false"
-      },
-      {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.cz/",
+        "name": "UseGalaxy.cz",
         "usegalaxy": "true"
       },
       {

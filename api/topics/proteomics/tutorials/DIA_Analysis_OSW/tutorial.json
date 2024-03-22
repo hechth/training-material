@@ -85,7 +85,7 @@
       ],
       "name": "DIA_Analysis_OSW",
       "test_results": null,
-      "modified": "2024-03-21 00:35:41 +0000"
+      "modified": "2024-03-22 00:31:35 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_OSW/tutorial.json",
@@ -110,9 +110,9 @@
     ],
     "inexact": [
       {
-        "url": "https://galaxy.metacentrum.cz/",
-        "name": "MetaCentrum",
-        "usegalaxy": "false"
+        "url": "https://usegalaxy.cz/",
+        "name": "UseGalaxy.cz",
+        "usegalaxy": "true"
       },
       {
         "url": "https://usegalaxy.no/",

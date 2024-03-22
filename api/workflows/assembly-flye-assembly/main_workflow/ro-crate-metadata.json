@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-03-21T00:35:38.946+00:00",
+      "datePublished": "2024-03-22T00:31:32.834+00:00",
       "mainEntity": {
         "@id": "main_workflow.ga"
       }
@@ -33,16 +33,16 @@
       ],
       "author": [
         {
-          "@id": "#bfd47af2-52e2-4193-9a41-77f9428099d1"
+          "@id": "#86f4c695-3b4a-41ed-944f-d51359967ca6"
         },
         {
-          "@id": "#f8c55942-62fd-4ef0-9e47-8bbf89e85e60"
+          "@id": "#19349912-e8d1-4106-9827-4fb071d54b90"
         },
         {
-          "@id": "#e551a3e2-35ad-4eee-873a-2cfd407fafb3"
+          "@id": "#fd28caba-75af-40eb-aff1-1502ecb67624"
         },
         {
-          "@id": "#27aef73c-d126-445e-a1ef-3f96b7918398"
+          "@id": "#9bb53e19-0c79-454d-befc-c2c561077281"
         }
       ],
       "license": {
@@ -72,22 +72,22 @@
       "version": "23.1"
     },
     {
-      "@id": "#bfd47af2-52e2-4193-9a41-77f9428099d1",
+      "@id": "#86f4c695-3b4a-41ed-944f-d51359967ca6",
       "@type": "Person",
       "name": "Erwan Corre"
     },
     {
-      "@id": "#f8c55942-62fd-4ef0-9e47-8bbf89e85e60",
+      "@id": "#19349912-e8d1-4106-9827-4fb071d54b90",
       "@type": "Person",
       "name": "Stéphanie Robin"
     },
     {
-      "@id": "#e551a3e2-35ad-4eee-873a-2cfd407fafb3",
+      "@id": "#fd28caba-75af-40eb-aff1-1502ecb67624",
       "@type": "Person",
       "name": "Anthony Bretaudeau"
     },
     {
-      "@id": "#27aef73c-d126-445e-a1ef-3f96b7918398",
+      "@id": "#9bb53e19-0c79-454d-befc-c2c561077281",
       "@type": "Person",
       "name": "Alexandre Cormier"
     }

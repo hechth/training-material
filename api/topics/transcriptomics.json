@@ -223,7 +223,7 @@
           ],
           "name": "Blockclust 1.1.0 Clustering",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/small_ncrna_clustering/tutorial.json",
@@ -253,9 +253,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -386,7 +386,7 @@
           ],
           "name": "Workflow Constructed From History 'Heinz Workflow Trial Sep 11'",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/network-analysis-with-heinz/tutorial.json",
@@ -413,9 +413,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -634,7 +634,7 @@
           ],
           "name": "RNA Seq Counts To Genes",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.json",
@@ -660,9 +660,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.fr/",
@@ -903,7 +903,7 @@
           ],
           "name": "Plant bulk RNA-Seq workflow",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/mirna-target-finder/tutorial.json",
@@ -940,9 +940,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -1110,7 +1110,7 @@
           ],
           "name": "Heatmap2 Workflow",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.json",
@@ -1140,9 +1140,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.fr/",
@@ -1261,7 +1261,7 @@
           ],
           "name": "sRNA Seq Step 1: Read Pre Processing And Removal Of Artifacts (no Grooming)",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         },
         {
           "workflow": "sRNA_seq_Step_2_Salmon_and_DESeq2.ga",
@@ -1277,7 +1277,7 @@
           ],
           "name": "sRNA Seq Step 2: Salmon And DESeq2",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/srna/tutorial.json",
@@ -1307,9 +1307,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -1516,7 +1516,7 @@
           ],
           "name": "Visualization Of RNA-Seq Results With Volcano Plot",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.json",
@@ -1536,9 +1536,9 @@
             "usegalaxy": "false"
           },
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -1685,7 +1685,7 @@
           ],
           "name": "Genome-wide alternative splicing analysis: human",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/differential-isoform-expression/tutorial.json",
@@ -1743,9 +1743,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           }
         ]
       },
@@ -2139,7 +2139,7 @@
           ],
           "name": "Tutorial CLIPseq Explorer Demultiplexed PEAKachu eCLIP Hg38 ",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/clipseq/tutorial.json",
@@ -2175,13 +2175,13 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -2394,7 +2394,7 @@
           ],
           "name": "GO Enrichment Workflow",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/goenrichment/tutorial.json",
@@ -2406,13 +2406,13 @@
       "supported_servers": {
         "exact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -2554,7 +2554,7 @@
           ],
           "name": "RNA Seq Genes To Pathways (imported from uploaded file)",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.json",
@@ -2593,13 +2593,13 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           }
         ]
@@ -2733,7 +2733,7 @@
           ],
           "name": "RNA-RNA interactome data analysis - chira  v1.4.3",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-interactome/tutorial.json",
@@ -2767,9 +2767,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -2962,7 +2962,7 @@
           ],
           "name": "trinity NG",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/full-de-novo/tutorial.json",
@@ -2998,9 +2998,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.no/",
@@ -3260,7 +3260,7 @@
           ],
           "name": "QC report",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         },
         {
           "workflow": "rna-seq-reads-to-counts.ga",
@@ -3276,7 +3276,7 @@
           ],
           "name": "RNA Seq Reads To Counts",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.json",
@@ -3316,13 +3316,13 @@
             "usegalaxy": "false"
           },
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -4810,7 +4810,7 @@
           ],
           "name": "DEG Part - Ref Based RNA Seq - Transcriptomics - GTN",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         },
         {
           "workflow": "qc-mapping-counting-paired-and-single.ga",
@@ -4875,7 +4875,7 @@
           ],
           "name": "QC + Mapping + Counting (single+paired) - Ref Based RNA Seq - Transcriptomics - GTN",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         },
         {
           "workflow": "qc-mapping-counting.ga",
@@ -4940,7 +4940,7 @@
           ],
           "name": "QC + Mapping + Counting - Ref Based RNA Seq - Transcriptomics - GTN - subworkflows",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/ref-based/tutorial.json",
@@ -5011,13 +5011,13 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -5507,7 +5507,7 @@
           ],
           "name": "De novo transcriptome reconstruction with RNA-Seq",
           "test_results": null,
-          "modified": "2024-03-21 00:35:42 +0000"
+          "modified": "2024-03-22 00:31:36 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/de-novo/tutorial.json",
@@ -5548,9 +5548,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",

@@ -242,7 +242,7 @@
           ],
           "name": "Genome Annotation with Prokka [Feb 2020]",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-prokka/tutorial.json",
@@ -287,9 +287,9 @@
             "usegalaxy": "false"
           },
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.fr/",
@@ -486,7 +486,7 @@
           ],
           "name": "RepeatMasker",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/repeatmasker/tutorial.json",
@@ -499,9 +499,9 @@
       "supported_servers": {
         "exact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -840,7 +840,7 @@
           ],
           "name": "Apollo Load Test",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/apollo/tutorial.json",
@@ -857,9 +857,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -1099,7 +1099,7 @@
           ],
           "name": "CHROMEISTER chromosome comparison",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         },
         {
           "workflow": "GECKO_pairwise_comparison.ga",
@@ -1115,7 +1115,7 @@
           ],
           "name": "GECKO pairwise comparison",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/hpc-for-lsgc/tutorial.json",
@@ -1150,9 +1150,9 @@
             "usegalaxy": "false"
           },
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           }
         ]
       },
@@ -1688,7 +1688,7 @@
           ],
           "name": "Comparative gene analysis",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/gene-centric/tutorial.json",
@@ -1726,9 +1726,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           }
         ]
       },
@@ -1981,7 +1981,7 @@
           ],
           "name": "Funannotate",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/funannotate/tutorial.json",
@@ -2021,13 +2021,13 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -2331,7 +2331,7 @@
           ],
           "name": "Genome annotation with Maker (short)",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-maker-short/tutorial.json",
@@ -2531,7 +2531,7 @@
           ],
           "name": "Essential genes detection with Transposon insertion sequencing",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/tnseq/tutorial.json",
@@ -2564,9 +2564,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -2753,7 +2753,7 @@
           ],
           "name": "Genome annotation with Maker ",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-maker/tutorial.json",
@@ -2793,9 +2793,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.org.au",
@@ -2957,7 +2957,7 @@
           ],
           "name": "Functional annotation",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/functional/tutorial.json",
@@ -2970,9 +2970,9 @@
       "supported_servers": {
         "exact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -3197,9 +3197,9 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
           },
           {
             "url": "https://usegalaxy.eu",
@@ -3392,7 +3392,7 @@
           ],
           "name": "Long non-coding RNAs (lncRNAs) annotation with FEELnc",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/lncrna/tutorial.json",
@@ -3424,13 +3424,13 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -3705,7 +3705,7 @@
           ],
           "name": "Workflow constructed from history 'CRISPR tutorial Kenji'",
           "test_results": null,
-          "modified": "2024-03-21 00:35:41 +0000"
+          "modified": "2024-03-22 00:31:34 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/crispr-screen/tutorial.json",
@@ -3737,13 +3737,13 @@
         ],
         "inexact": [
           {
-            "url": "https://galaxy.metacentrum.cz/",
-            "name": "MetaCentrum",
-            "usegalaxy": "false"
-          },
-          {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {

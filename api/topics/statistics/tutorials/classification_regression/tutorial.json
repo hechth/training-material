@@ -88,7 +88,7 @@
       ],
       "name": "Classification LSVC",
       "test_results": null,
-      "modified": "2024-03-21 00:35:42 +0000"
+      "modified": "2024-03-22 00:31:36 +0000"
     },
     {
       "workflow": "regression_GradientBoosting.ga",
@@ -104,7 +104,7 @@
       ],
       "name": "Regression GradientBoosting",
       "test_results": null,
-      "modified": "2024-03-21 00:35:42 +0000"
+      "modified": "2024-03-22 00:31:36 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/classification_regression/tutorial.json",
@@ -117,13 +117,13 @@
   "supported_servers": {
     "exact": [
       {
-        "url": "https://galaxy.metacentrum.cz/",
-        "name": "MetaCentrum",
-        "usegalaxy": "false"
-      },
-      {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.cz/",
+        "name": "UseGalaxy.cz",
         "usegalaxy": "true"
       },
       {
