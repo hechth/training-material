@@ -89,7 +89,7 @@
           ],
           "name": "Climate 101",
           "test_results": null,
-          "modified": "2024-03-22 00:31:32 +0000"
+          "modified": "2024-03-23 00:30:56 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/climate-101/tutorial.json",
@@ -358,7 +358,7 @@
           ],
           "name": "CLM-FATES_ ALP1 simulation (5 years)",
           "test_results": null,
-          "modified": "2024-03-22 00:31:32 +0000"
+          "modified": "2024-03-23 00:30:56 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/fates/tutorial.json",
@@ -557,7 +557,7 @@
           ],
           "name": "GTN 'Pangeo 101 for everyone - Xarray'",
           "test_results": null,
-          "modified": "2024-03-22 00:31:32 +0000"
+          "modified": "2024-03-23 00:30:56 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo/tutorial.json",
@@ -837,7 +837,7 @@
           ],
           "name": "Pangeo Jupyter Notebook",
           "test_results": null,
-          "modified": "2024-03-22 00:31:32 +0000"
+          "modified": "2024-03-23 00:30:56 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/climate/tutorials/pangeo-notebook/tutorial.json",

@@ -168,7 +168,7 @@
       ],
       "name": "Genome Assembly using PacBio data",
       "test_results": null,
-      "modified": "2024-03-22 00:31:32 +0000"
+      "modified": "2024-03-23 00:30:56 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/flye-assembly/tutorial.json",
