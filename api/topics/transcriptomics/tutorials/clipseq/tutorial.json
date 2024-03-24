@@ -96,7 +96,7 @@
       ],
       "name": "Tutorial CLIPseq Explorer Demultiplexed PEAKachu eCLIP Hg38 ",
       "test_results": null,
-      "modified": "2024-03-23 00:30:59 +0000"
+      "modified": "2024-03-24 00:35:18 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/clipseq/tutorial.json",
@@ -124,11 +124,7 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.eu",
-        "name": "UseGalaxy.eu",
-        "usegalaxy": "true"
-      }
+
     ],
     "inexact": [
       {

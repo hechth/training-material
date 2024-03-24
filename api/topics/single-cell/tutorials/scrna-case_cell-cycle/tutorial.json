@@ -90,7 +90,7 @@
       ],
       "name": "Cell Cycle Regression Workflow",
       "test_results": null,
-      "modified": "2024-03-23 00:30:59 +0000"
+      "modified": "2024-03-24 00:35:17 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-case_cell-cycle/tutorial.json",
