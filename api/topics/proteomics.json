@@ -210,7 +210,7 @@
           ],
           "name": "DIA_analysis_MSstats",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-DIA_MSstats_Training_msstats_input_tabular.ga",
@@ -226,7 +226,7 @@
           ],
           "name": "DIA_analysis_MSstats",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_MSstats/tutorial.json",
@@ -393,7 +393,7 @@
           ],
           "name": "Peptide And Protein ID Tutorial",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         },
         {
           "workflow": "wf_proteinID_SG_PS_multipleFiles.ga",
@@ -409,7 +409,7 @@
           ],
           "name": "ProteinID SG PS Tutorial WF datasetCollection",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-id-sg-ps/tutorial.json",
@@ -604,7 +604,7 @@
           ],
           "name": "metaquantome-function-worklow",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaquantome-function/tutorial.json",
@@ -669,7 +669,7 @@
           {
             "name": "metaquantome_db",
             "owner": "galaxyp",
-            "revisions": "860429737408",
+            "revisions": "e63db1aa82ee",
             "tool_panel_section_label": "Proteomics",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           },
@@ -683,7 +683,7 @@
           {
             "name": "metaquantome_expand",
             "owner": "galaxyp",
-            "revisions": "4187b6df1a40",
+            "revisions": "767c1d761aaf",
             "tool_panel_section_label": "Proteomics",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           },
@@ -697,7 +697,7 @@
           {
             "name": "metaquantome_filter",
             "owner": "galaxyp",
-            "revisions": "a1daafbf5233",
+            "revisions": "35cc7ca0bdc7",
             "tool_panel_section_label": "Proteomics",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           },
@@ -711,7 +711,7 @@
           {
             "name": "metaquantome_sample",
             "owner": "galaxyp",
-            "revisions": "40ca115438d2",
+            "revisions": "06f6826d380c",
             "tool_panel_section_label": "Proteomics",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           },
@@ -725,7 +725,7 @@
           {
             "name": "metaquantome_stat",
             "owner": "galaxyp",
-            "revisions": "b648e45fd3cf",
+            "revisions": "b9d453dca8d3",
             "tool_panel_section_label": "Proteomics",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           },
@@ -739,13 +739,13 @@
           {
             "name": "metaquantome_viz",
             "owner": "galaxyp",
-            "revisions": "eb811f3018ea",
+            "revisions": "8bd7734309f6",
             "tool_panel_section_label": "Proteomics",
             "tool_shed_url": "https://toolshed.g2.bx.psu.edu/"
           }
         ]
       },
-      "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools:\n- name: metaquantome_db\n  owner: galaxyp\n  revisions: 7c45aa1c9464\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_db\n  owner: galaxyp\n  revisions: '860429737408'\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_expand\n  owner: galaxyp\n  revisions: eb65ab160a10\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_expand\n  owner: galaxyp\n  revisions: 4187b6df1a40\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_filter\n  owner: galaxyp\n  revisions: 7d1c20b315ff\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_filter\n  owner: galaxyp\n  revisions: a1daafbf5233\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_sample\n  owner: galaxyp\n  revisions: 49a957fb353a\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_sample\n  owner: galaxyp\n  revisions: 40ca115438d2\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_stat\n  owner: galaxyp\n  revisions: 982a442a98dd\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_stat\n  owner: galaxyp\n  revisions: b648e45fd3cf\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_viz\n  owner: galaxyp\n  revisions: 02da24eac445\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_viz\n  owner: galaxyp\n  revisions: eb811f3018ea\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n",
+      "admin_install_yaml": "---\ninstall_tool_dependencies: true\ninstall_repository_dependencies: true\ninstall_resolver_dependencies: true\ntools:\n- name: metaquantome_db\n  owner: galaxyp\n  revisions: 7c45aa1c9464\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_db\n  owner: galaxyp\n  revisions: e63db1aa82ee\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_expand\n  owner: galaxyp\n  revisions: eb65ab160a10\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_expand\n  owner: galaxyp\n  revisions: 767c1d761aaf\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_filter\n  owner: galaxyp\n  revisions: 7d1c20b315ff\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_filter\n  owner: galaxyp\n  revisions: 35cc7ca0bdc7\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_sample\n  owner: galaxyp\n  revisions: 49a957fb353a\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_sample\n  owner: galaxyp\n  revisions: 06f6826d380c\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_stat\n  owner: galaxyp\n  revisions: 982a442a98dd\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_stat\n  owner: galaxyp\n  revisions: b9d453dca8d3\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_viz\n  owner: galaxyp\n  revisions: 02da24eac445\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n- name: metaquantome_viz\n  owner: galaxyp\n  revisions: 8bd7734309f6\n  tool_panel_section_label: Proteomics\n  tool_shed_url: https://toolshed.g2.bx.psu.edu/\n",
       "tours": false,
       "video": false,
       "translations": {
@@ -844,7 +844,7 @@
           ],
           "name": "Secreted Proteins Via GO Annotation And WoLF PSORT For shCTSB Paper",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/secretome-prediction/tutorial.json",
@@ -1050,7 +1050,7 @@
           ],
           "name": "metaQuantome_datacreation_workflow",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaquantome-data-creation/tutorial.json",
@@ -1289,7 +1289,7 @@
           ],
           "name": "Proteomics: database handling",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         },
         {
           "workflow": "wf_database-handling_mycoplasma.ga",
@@ -1305,7 +1305,7 @@
           ],
           "name": "Proteomics: database handling including mycoplasma",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/database-handling/tutorial.json",
@@ -1533,7 +1533,7 @@
           ],
           "name": "metaquantome-taxonomy-workflow",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaquantome-taxonomy/tutorial.json",
@@ -1765,7 +1765,7 @@
           ],
           "name": "Proteomics: MaxQuant and MSstats LFQ workflow",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-dda-lfq/tutorial.json",
@@ -1991,7 +1991,7 @@
           ],
           "name": "Tails Triple Dimethyl OpenMS2.1",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/ntails/tutorial.json",
@@ -2192,7 +2192,7 @@
           ],
           "name": "GTN Proteogemics3 Novel Peptide Analysis",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-novel-peptide-analysis/tutorial.json",
@@ -2395,7 +2395,7 @@
           ],
           "name": "Proteomics: Peptide and Protein Quantification via stable istobe labeling",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-quant-sil/tutorial.json",
@@ -2659,7 +2659,7 @@
           ],
           "name": "MaxQuant MSstatsTMT Training",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-tmt/tutorial.json",
@@ -2875,7 +2875,7 @@
           ],
           "name": "GTN Proteogenomics1 Database Creation",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbcreation/tutorial.json",
@@ -3148,7 +3148,7 @@
           ],
           "name": "PeptideML",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/ml-modeling-of-anti-cancer-peptides/tutorial.json",
@@ -3331,7 +3331,7 @@
           ],
           "name": "Proteomics: Peptide and Protein ID using OpenMS",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         },
         {
           "workflow": "workflow_two-search-engines.ga",
@@ -3347,7 +3347,7 @@
           ],
           "name": "Peptide And Protein ID Via OMS Using Two Search Engines",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-id-oms/tutorial.json",
@@ -3660,7 +3660,7 @@
           ],
           "name": "'Biomarkers4Paris' Workflow",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/biomarker_selection/tutorial.json",
@@ -3909,7 +3909,7 @@
           ],
           "name": "Metaproteomics_GTN",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/metaproteomics/tutorial.json",
@@ -4106,7 +4106,7 @@
           ],
           "name": "MS Imaging Loading Exploring Data",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/mass-spectrometry-imaging-loading-exploring-data/tutorial.json",
@@ -4317,7 +4317,7 @@
           ],
           "name": "'Proteome Annotation'",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         },
         {
           "workflow": "main_workflow.ga",
@@ -4333,7 +4333,7 @@
           ],
           "name": "ProteoRE ProteomeAnnotation Tutorial (release 2.0)",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteome_annotation/tutorial.json",
@@ -4523,7 +4523,7 @@
           ],
           "name": "Proteomics: MaxQuant workflow",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-label-free/tutorial.json",
@@ -4712,7 +4712,7 @@
           ],
           "name": "DIA_lib_OSW",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_lib_OSW/tutorial.json",
@@ -5004,7 +5004,7 @@
           ],
           "name": "May19 EncyclopeDIA raw inputs",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/encyclopedia/tutorial.json",
@@ -5269,7 +5269,7 @@
           ],
           "name": "GTN Proteogemics2 Database Search",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/proteogenomics-dbsearch/tutorial.json",
@@ -5443,7 +5443,7 @@
           ],
           "name": "Copy of PeptideDataAnalysis (imported from uploaded file)",
           "test_results": null,
-          "modified": "2024-03-25 00:35:19 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/peptide-library-data-analysis/tutorial.json",
@@ -5638,7 +5638,7 @@
           ],
           "name": "DIA_Analysis_OSW",
           "test_results": null,
-          "modified": "2024-03-25 00:35:18 +0000"
+          "modified": "2024-03-26 00:31:39 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/DIA_Analysis_OSW/tutorial.json",
