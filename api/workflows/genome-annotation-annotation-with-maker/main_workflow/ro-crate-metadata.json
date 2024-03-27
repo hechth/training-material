@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-03-26T00:31:39.122+00:00",
+      "datePublished": "2024-03-27T00:31:32.939+00:00",
       "mainEntity": {
         "@id": "main_workflow.ga"
       }
@@ -36,7 +36,7 @@
           "@id": "https://orcid.org/0000-0003-0914-2470"
         },
         {
-          "@id": "#09dc27f3-2f5a-4b9a-9e36-0d3028b0a975"
+          "@id": "#9c1ad29e-8bff-4f4f-b6f6-1b30693f58a0"
         }
       ],
       "license": {
@@ -71,7 +71,7 @@
       "name": "Anthony Bretaudeau"
     },
     {
-      "@id": "#09dc27f3-2f5a-4b9a-9e36-0d3028b0a975",
+      "@id": "#9c1ad29e-8bff-4f4f-b6f6-1b30693f58a0",
       "@type": "Organization",
       "name": "French National Institute for Agriculture, Food, and Environment (INRAE)"
     }
