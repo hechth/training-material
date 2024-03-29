@@ -76,7 +76,7 @@
       ],
       "name": "Proteomics: MaxQuant workflow",
       "test_results": null,
-      "modified": "2024-03-28 00:31:55 +0000"
+      "modified": "2024-03-29 00:32:09 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-label-free/tutorial.json",
