@@ -114,7 +114,7 @@
       ],
       "name": "Debruijn Graph",
       "test_results": null,
-      "modified": "2024-03-29 00:32:06 +0000"
+      "modified": "2024-03-30 00:31:15 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/debruijn-graph-assembly/tutorial.json",
@@ -157,11 +157,7 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://usegalaxy.cz/",
-        "name": "UseGalaxy.cz",
-        "usegalaxy": "true"
-      }
+
     ]
   },
   "topic_name_human": "Assembly",

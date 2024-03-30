@@ -145,7 +145,7 @@
           ],
           "name": "Intermine import/export",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/intermine/tutorial.json",
@@ -158,11 +158,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -326,7 +321,7 @@
           ],
           "name": "GTN Training: Workflow Reports - Galaxy 101 For Everyone",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         },
         {
           "workflow": "workflow_reports_final_workflow.ga",
@@ -342,7 +337,7 @@
           ],
           "name": "GTN Training: Workflow Reports",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-reports/tutorial.json",
@@ -388,11 +383,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           }
         ]
@@ -667,7 +657,7 @@
           ],
           "name": "Select First N Lines",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-parameters/tutorial.json",
@@ -699,11 +689,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -895,7 +880,7 @@
           ],
           "name": "vcf2lineage",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
@@ -1094,7 +1079,7 @@
           ],
           "name": "GTN_ENA_upload_workflow",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
@@ -1216,7 +1201,7 @@
           ],
           "name": "Tutorial workflow",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         },
         {
           "workflow": "subworkflow.ga",
@@ -1232,7 +1217,7 @@
           ],
           "name": "Subworkflow",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-editor/tutorial.json",
@@ -1256,11 +1241,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -1629,11 +1609,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -3686,11 +3661,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {

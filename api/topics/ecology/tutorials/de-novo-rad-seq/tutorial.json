@@ -72,7 +72,7 @@
       ],
       "name": "de novo Rad Seq",
       "test_results": null,
-      "modified": "2024-03-29 00:32:07 +0000"
+      "modified": "2024-03-30 00:31:16 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/de-novo-rad-seq/tutorial.json",
@@ -96,11 +96,6 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://usegalaxy.cz/",
-        "name": "UseGalaxy.cz",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.no/",
         "name": "UseGalaxy.no",

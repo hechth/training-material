@@ -63,7 +63,7 @@
       ],
       "name": "GO Enrichment Workflow",
       "test_results": null,
-      "modified": "2024-03-29 00:32:10 +0000"
+      "modified": "2024-03-30 00:31:19 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/goenrichment/tutorial.json",
@@ -77,11 +77,6 @@
       {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.cz/",
-        "name": "UseGalaxy.cz",
         "usegalaxy": "true"
       },
       {

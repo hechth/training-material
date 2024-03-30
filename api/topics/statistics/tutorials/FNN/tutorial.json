@@ -112,7 +112,7 @@
       ],
       "name": "Intro_To_FNN_v1_0_10_0",
       "test_results": null,
-      "modified": "2024-03-29 00:32:09 +0000"
+      "modified": "2024-03-30 00:31:18 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/FNN/tutorial.json",
@@ -125,11 +125,6 @@
   ],
   "supported_servers": {
     "exact": [
-      {
-        "url": "https://usegalaxy.cz/",
-        "name": "UseGalaxy.cz",
-        "usegalaxy": "true"
-      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

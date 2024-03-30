@@ -131,7 +131,7 @@
           ],
           "name": "Workflow Constructed From History 'imported: testpourGCC'",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/lcms/tutorial.json",
@@ -155,11 +155,6 @@
 
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -377,7 +372,7 @@
           ],
           "name": "MSI Finding Diff Analytes",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-finding-nglycans/tutorial.json",
@@ -409,11 +404,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
@@ -595,7 +585,7 @@
           ],
           "name": "MSI Workflow: spatial distribution",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/msi-analyte-distribution/tutorial.json",
@@ -626,11 +616,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -799,7 +784,7 @@
           ],
           "name": "GC MS using XCMS",
           "test_results": null,
-          "modified": "2024-03-29 00:32:08 +0000"
+          "modified": "2024-03-30 00:31:17 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/metabolomics/tutorials/gc_ms_with_xcms/tutorial.json",
@@ -1118,11 +1103,6 @@
         ],
         "inexact": [
           {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
-          {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
             "usegalaxy": "true"
@@ -1407,11 +1387,6 @@
       "supported_servers": {
         "exact": [
           {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
-          {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
             "usegalaxy": "true"
@@ -1574,11 +1549,6 @@
           }
         ],
         "inexact": [
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
