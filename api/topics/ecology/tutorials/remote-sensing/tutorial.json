@@ -63,7 +63,7 @@
       ],
       "name": "Sentinel 2 example",
       "test_results": null,
-      "modified": "2024-04-01 00:36:29 +0000"
+      "modified": "2024-04-02 00:32:39 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/remote-sensing/tutorial.json",
@@ -77,6 +77,11 @@
   ],
   "supported_servers": {
     "exact": [
+      {
+        "url": "https://usegalaxy.cz/",
+        "name": "UseGalaxy.cz",
+        "usegalaxy": "true"
+      },
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",

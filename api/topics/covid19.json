@@ -94,7 +94,7 @@
           ],
           "name": "Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring",
           "test_results": null,
-          "modified": "2024-04-01 00:36:28 +0000"
+          "modified": "2024-04-02 00:32:38 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/covid19-docking/tutorial.json",
@@ -386,6 +386,11 @@
       "supported_servers": {
         "exact": [
           {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
+          },
+          {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
             "usegalaxy": "true"
@@ -615,7 +620,7 @@
           ],
           "name": "Simple COVID-19 - PE Variation",
           "test_results": null,
-          "modified": "2024-04-01 00:36:32 +0000"
+          "modified": "2024-04-02 00:32:42 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/sars-cov-2/tutorial.json",
@@ -658,6 +663,11 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -966,7 +976,7 @@
           ],
           "name": "vcf2lineage",
           "test_results": null,
-          "modified": "2024-04-01 00:36:30 +0000"
+          "modified": "2024-04-02 00:32:40 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
@@ -1165,7 +1175,7 @@
           ],
           "name": "GTN_ENA_upload_workflow",
           "test_results": null,
-          "modified": "2024-04-01 00:36:30 +0000"
+          "modified": "2024-04-02 00:32:40 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
@@ -1347,7 +1357,7 @@
           ],
           "name": "assembly_with_preprocessing",
           "test_results": null,
-          "modified": "2024-04-01 00:36:28 +0000"
+          "modified": "2024-04-02 00:32:38 +0000"
         },
         {
           "workflow": "assembly_with_preprocessing_and_sra_download.ga",
@@ -1363,7 +1373,7 @@
           ],
           "name": "assembly_with_preprocessing_and_sra_download",
           "test_results": null,
-          "modified": "2024-04-01 00:36:28 +0000"
+          "modified": "2024-04-02 00:32:38 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
@@ -1407,6 +1417,11 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -1662,7 +1677,7 @@
           ],
           "name": "GTN - Sequence Analyses - Removal of human reads from SARS-CoV-2 sequencing data",
           "test_results": null,
-          "modified": "2024-04-01 00:36:31 +0000"
+          "modified": "2024-04-02 00:32:41 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
@@ -1709,6 +1724,11 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -1962,6 +1982,11 @@
         ],
         "inexact": [
           {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
+          },
+          {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
             "usegalaxy": "true"
@@ -2163,6 +2188,11 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           }
         ]
