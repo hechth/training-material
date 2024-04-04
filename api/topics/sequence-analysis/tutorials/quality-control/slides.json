@@ -1350,7 +1350,7 @@
           "version": "0.1"
         }
       },
-      "modified": "2024-04-02 00:32:41 +0000"
+      "modified": "2024-04-04 00:33:19 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/quality-control/tutorial.json",
@@ -1383,6 +1383,11 @@
       }
     ],
     "inexact": [
+      {
+        "url": "https://galaxy.mesocentre.uca.fr",
+        "name": "Galaxy@AuBi",
+        "usegalaxy": "false"
+      },
       {
         "url": "https://usegalaxy.cz/",
         "name": "UseGalaxy.cz",

@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-04-02T00:32:39.719+00:00",
+      "datePublished": "2024-04-04T00:33:17.689+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-de-novo-rad-seq.ga"
       }
