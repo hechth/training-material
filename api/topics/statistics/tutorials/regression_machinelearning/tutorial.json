@@ -111,7 +111,7 @@
       ],
       "name": "Regression (from training material)",
       "test_results": null,
-      "modified": "2024-04-06 00:31:44 +0000"
+      "modified": "2024-04-07 00:36:15 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/statistics/tutorials/regression_machinelearning/tutorial.json",
