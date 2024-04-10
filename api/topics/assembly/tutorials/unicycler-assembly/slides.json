@@ -67,7 +67,7 @@
       ],
       "name": "Unicycler training",
       "test_results": null,
-      "modified": "2024-04-09 00:32:50 +0000"
+      "modified": "2024-04-10 00:32:29 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/unicycler-assembly/tutorial.json",
@@ -105,11 +105,6 @@
       {
         "url": "https://galaxy.hyphy.org/",
         "name": "HyPhy HIV NGS Tools",
-        "usegalaxy": "false"
-      },
-      {
-        "url": "https://mississippi.sorbonne-universite.fr",
-        "name": "MISSISSIPPI",
         "usegalaxy": "false"
       },
       {

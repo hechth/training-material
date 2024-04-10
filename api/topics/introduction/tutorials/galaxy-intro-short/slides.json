@@ -64,7 +64,7 @@
       ],
       "name": "Galaxy Intro Short",
       "test_results": null,
-      "modified": "2024-04-09 00:32:53 +0000"
+      "modified": "2024-04-10 00:32:32 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/introduction/tutorials/galaxy-intro-short/tutorial.json",
@@ -91,11 +91,6 @@
       {
         "url": "https://galaxytrakr.org/",
         "name": "GalaxyTrakr",
-        "usegalaxy": "false"
-      },
-      {
-        "url": "https://mississippi.sorbonne-universite.fr",
-        "name": "MISSISSIPPI",
         "usegalaxy": "false"
       },
       {
