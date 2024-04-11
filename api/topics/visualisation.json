@@ -134,7 +134,7 @@
           ],
           "name": "Circos for E. Coli",
           "test_results": null,
-          "modified": "2024-04-10 00:32:33 +0000"
+          "modified": "2024-04-11 00:33:06 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos-microbial/tutorial.json",
@@ -162,6 +162,11 @@
           }
         ],
         "inexact": [
+          {
+            "url": "https://mississippi.sorbonne-universite.fr",
+            "name": "MISSISSIPPI",
+            "usegalaxy": "false"
+          },
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
@@ -502,7 +507,7 @@
           ],
           "name": "Circos tutorial",
           "test_results": null,
-          "modified": "2024-04-10 00:32:33 +0000"
+          "modified": "2024-04-11 00:33:06 +0000"
         },
         {
           "workflow": "nature_workflow.ga",
@@ -527,7 +532,7 @@
           ],
           "name": "Circos: Nature workflow",
           "test_results": null,
-          "modified": "2024-04-10 00:32:33 +0000"
+          "modified": "2024-04-11 00:33:06 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
@@ -541,6 +546,11 @@
       ],
       "supported_servers": {
         "exact": [
+          {
+            "url": "https://mississippi.sorbonne-universite.fr",
+            "name": "MISSISSIPPI",
+            "usegalaxy": "false"
+          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -766,6 +776,11 @@
           {
             "url": "https://galaxytrakr.org/",
             "name": "GalaxyTrakr",
+            "usegalaxy": "false"
+          },
+          {
+            "url": "https://mississippi.sorbonne-universite.fr",
+            "name": "MISSISSIPPI",
             "usegalaxy": "false"
           },
           {
