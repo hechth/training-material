@@ -214,7 +214,7 @@
           ],
           "name": "Workflow constructed from history 'Hsp90-MDAnalysis'",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         },
         {
           "workflow": "main_workflow.ga",
@@ -230,7 +230,7 @@
           ],
           "name": "MD protein-ligand workflow (from PDB structure)",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/htmd-analysis/tutorial.json",
@@ -578,7 +578,7 @@
           ],
           "name": "CTB Workflow",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/cheminformatics/tutorial.json",
@@ -888,7 +888,7 @@
           ],
           "name": "Analysis using MDAnalysis",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         },
         {
           "workflow": "main_workflow.ga",
@@ -904,7 +904,7 @@
           ],
           "name": "Simple Analysis",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/analysis-md-simulations/tutorial.json",
@@ -1129,7 +1129,7 @@
           ],
           "name": "Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/covid19-docking/tutorial.json",
@@ -1368,7 +1368,7 @@
           ],
           "name": "GROMACS Training Workflow",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/md-simulation-gromacs/tutorial.json",
@@ -1616,7 +1616,7 @@
           ],
           "name": "Zauberkugel",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/zauberkugel/tutorial.json",
@@ -1798,7 +1798,7 @@
           ],
           "name": "MD NAMD",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         },
         {
           "workflow": "main_workflow_charmmgui.ga",
@@ -1814,7 +1814,7 @@
           ],
           "name": "NAMD MD From CHARMM GUI",
           "test_results": null,
-          "modified": "2024-04-13 00:28:13 +0000"
+          "modified": "2024-04-14 00:38:53 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/md-simulation-namd/tutorial.json",
