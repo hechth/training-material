@@ -71,7 +71,7 @@
       ],
       "name": "Genome-wide alternative splicing analysis: human",
       "test_results": null,
-      "modified": "2024-04-15 03:02:32 +0000"
+      "modified": "2024-04-16 00:32:23 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/differential-isoform-expression/tutorial.json",
@@ -131,6 +131,11 @@
       {
         "url": "https://usegalaxy.cz/",
         "name": "UseGalaxy.cz",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.fr/",
+        "name": "UseGalaxy.fr",
         "usegalaxy": "true"
       }
     ]
