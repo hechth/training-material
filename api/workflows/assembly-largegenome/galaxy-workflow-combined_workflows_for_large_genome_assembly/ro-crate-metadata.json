@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-04-20T00:32:28.171+00:00",
+      "datePublished": "2024-04-21T00:35:52.349+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-combined_workflows_for_large_genome_assembly.ga"
       }
