@@ -54,7 +54,7 @@
       ],
       "name": "Heatmap2 Workflow",
       "test_results": null,
-      "modified": "2024-05-02 00:35:10 +0000"
+      "modified": "2024-05-03 00:35:47 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.json",

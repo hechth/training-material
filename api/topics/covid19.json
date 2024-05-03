@@ -125,7 +125,7 @@
           ],
           "name": "GTN - Sequence Analyses - Removal of human reads from SARS-CoV-2 sequencing data",
           "test_results": null,
-          "modified": "2024-05-02 00:35:09 +0000"
+          "modified": "2024-05-03 00:35:46 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
@@ -390,7 +390,7 @@
           ],
           "name": "vcf2lineage",
           "test_results": null,
-          "modified": "2024-05-02 00:35:08 +0000"
+          "modified": "2024-05-03 00:35:45 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
@@ -589,7 +589,7 @@
           ],
           "name": "GTN_ENA_upload_workflow",
           "test_results": null,
-          "modified": "2024-05-02 00:35:08 +0000"
+          "modified": "2024-05-03 00:35:45 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
@@ -720,7 +720,7 @@
           ],
           "name": "Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring",
           "test_results": null,
-          "modified": "2024-05-02 00:35:07 +0000"
+          "modified": "2024-05-03 00:35:43 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/covid19-docking/tutorial.json",
@@ -1014,7 +1014,7 @@
           ],
           "name": "assembly_with_preprocessing",
           "test_results": null,
-          "modified": "2024-05-02 00:35:06 +0000"
+          "modified": "2024-05-03 00:35:43 +0000"
         },
         {
           "workflow": "assembly_with_preprocessing_and_sra_download.ga",
@@ -1030,7 +1030,7 @@
           ],
           "name": "assembly_with_preprocessing_and_sra_download",
           "test_results": null,
-          "modified": "2024-05-02 00:35:06 +0000"
+          "modified": "2024-05-03 00:35:43 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
@@ -1327,7 +1327,7 @@
           ],
           "name": "Simple COVID-19 - PE Variation",
           "test_results": null,
-          "modified": "2024-05-02 00:35:10 +0000"
+          "modified": "2024-05-03 00:35:47 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/sars-cov-2/tutorial.json",
