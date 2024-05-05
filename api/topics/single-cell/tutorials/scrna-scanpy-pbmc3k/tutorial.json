@@ -161,7 +161,7 @@
       ],
       "name": "Clustering 3K PBMCs With Scanpy",
       "test_results": null,
-      "modified": "2024-05-04 00:32:31 +0000"
+      "modified": "2024-05-05 00:36:13 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scanpy-pbmc3k/tutorial.json",
