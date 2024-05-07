@@ -67,7 +67,7 @@
       ],
       "name": "RNA Seq Genes To Pathways (imported from uploaded file)",
       "test_results": null,
-      "modified": "2024-05-06 00:34:37 +0000"
+      "modified": "2024-05-07 00:33:38 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.json",
