@@ -119,7 +119,7 @@
       ],
       "name": "ATAC-seq GTM",
       "test_results": null,
-      "modified": "2024-05-10 00:33:46 +0000"
+      "modified": "2024-05-11 00:33:09 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/epigenetics/tutorials/atac-seq/tutorial.json",

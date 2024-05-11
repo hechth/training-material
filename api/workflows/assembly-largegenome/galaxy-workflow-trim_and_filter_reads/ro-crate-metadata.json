@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-05-10T00:33:45.438+00:00",
+      "datePublished": "2024-05-11T00:33:07.996+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-trim_and_filter_reads.ga"
       }
