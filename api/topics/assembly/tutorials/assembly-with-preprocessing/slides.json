@@ -114,7 +114,7 @@
       ],
       "name": "assembly_with_preprocessing",
       "test_results": null,
-      "modified": "2024-05-13 00:35:38 +0000"
+      "modified": "2024-05-14 00:34:08 +0000"
     },
     {
       "workflow": "assembly_with_preprocessing_and_sra_download.ga",
@@ -130,7 +130,7 @@
       ],
       "name": "assembly_with_preprocessing_and_sra_download",
       "test_results": null,
-      "modified": "2024-05-13 00:35:38 +0000"
+      "modified": "2024-05-14 00:34:08 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
@@ -166,11 +166,6 @@
       }
     ],
     "inexact": [
-      {
-        "url": "https://mississippi.sorbonne-universite.fr",
-        "name": "MISSISSIPPI",
-        "usegalaxy": "false"
-      },
       {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",

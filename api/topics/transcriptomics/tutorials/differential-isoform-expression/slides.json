@@ -71,7 +71,7 @@
       ],
       "name": "Genome-wide alternative splicing analysis: human",
       "test_results": null,
-      "modified": "2024-05-13 00:35:42 +0000"
+      "modified": "2024-05-14 00:34:12 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/differential-isoform-expression/tutorial.json",
