@@ -110,7 +110,7 @@
       ],
       "name": "QC report",
       "test_results": null,
-      "modified": "2024-05-14 00:34:12 +0000"
+      "modified": "2024-05-15 00:34:14 +0000"
     },
     {
       "workflow": "rna-seq-reads-to-counts.ga",
@@ -126,7 +126,7 @@
       ],
       "name": "RNA Seq Reads To Counts",
       "test_results": null,
-      "modified": "2024-05-14 00:34:12 +0000"
+      "modified": "2024-05-15 00:34:14 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.json",
@@ -160,6 +160,11 @@
       }
     ],
     "inexact": [
+      {
+        "url": "https://mississippi.sorbonne-universite.fr",
+        "name": "MISSISSIPPI",
+        "usegalaxy": "false"
+      },
       {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",

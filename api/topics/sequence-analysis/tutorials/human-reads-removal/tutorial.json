@@ -103,7 +103,7 @@
       ],
       "name": "GTN - Sequence Analyses - Removal of human reads from SARS-CoV-2 sequencing data",
       "test_results": null,
-      "modified": "2024-05-14 00:34:11 +0000"
+      "modified": "2024-05-15 00:34:13 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
@@ -140,6 +140,11 @@
       {
         "url": "https://galaxytrakr.org/",
         "name": "GalaxyTrakr",
+        "usegalaxy": "false"
+      },
+      {
+        "url": "https://mississippi.sorbonne-universite.fr",
+        "name": "MISSISSIPPI",
         "usegalaxy": "false"
       },
       {
