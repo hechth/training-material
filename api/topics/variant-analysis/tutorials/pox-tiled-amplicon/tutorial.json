@@ -84,7 +84,7 @@
       ],
       "name": "pox-virus-tiled-amplicon-ref-masking",
       "test_results": null,
-      "modified": "2024-05-15 00:34:14 +0000"
+      "modified": "2024-05-16 00:34:25 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/pox-tiled-amplicon/tutorial.json",
