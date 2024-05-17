@@ -101,7 +101,7 @@
       ],
       "name": "Proteomics: Peptide and Protein Quantification via stable istobe labeling",
       "test_results": null,
-      "modified": "2024-05-16 00:34:24 +0000"
+      "modified": "2024-05-17 00:34:27 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/protein-quant-sil/tutorial.json",

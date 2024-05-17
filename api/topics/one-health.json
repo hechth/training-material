@@ -152,7 +152,7 @@
           ],
           "name": "pox-virus-tiled-amplicon-ref-masking",
           "test_results": null,
-          "modified": "2024-05-16 00:34:25 +0000"
+          "modified": "2024-05-17 00:34:28 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/pox-tiled-amplicon/tutorial.json",
@@ -563,7 +563,7 @@
           ],
           "name": "M. tuberculosis Variant Analysis tutorial",
           "test_results": null,
-          "modified": "2024-05-16 00:34:25 +0000"
+          "modified": "2024-05-17 00:34:28 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/tb-variant-analysis/tutorial.json",
@@ -1074,7 +1074,7 @@
           ],
           "name": "Simple COVID-19 - PE Variation",
           "test_results": null,
-          "modified": "2024-05-16 00:34:25 +0000"
+          "modified": "2024-05-17 00:34:28 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/sars-cov-2/tutorial.json",
@@ -1378,7 +1378,7 @@
           ],
           "name": "Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring",
           "test_results": null,
-          "modified": "2024-05-16 00:34:21 +0000"
+          "modified": "2024-05-17 00:34:24 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/covid19-docking/tutorial.json",
@@ -1623,7 +1623,7 @@
           ],
           "name": "Mtb phylogeny",
           "test_results": null,
-          "modified": "2024-05-16 00:34:23 +0000"
+          "modified": "2024-05-17 00:34:26 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_phylogeny/tutorial.json",
@@ -1808,7 +1808,7 @@
           ],
           "name": "From BAMs to drug resistance prediction with TB-profiler",
           "test_results": null,
-          "modified": "2024-05-16 00:34:23 +0000"
+          "modified": "2024-05-17 00:34:26 +0000"
         },
         {
           "workflow": "Galaxy-Workflow-From_Fastqs_to_VCFs_and_BAMs.ga",
@@ -1824,7 +1824,7 @@
           ],
           "name": "From Fastqs to VCFs and BAMs",
           "test_results": null,
-          "modified": "2024-05-16 00:34:23 +0000"
+          "modified": "2024-05-17 00:34:26 +0000"
         },
         {
           "workflow": "main_workflow.ga",
@@ -1840,7 +1840,7 @@
           ],
           "name": "From VCFs to SNP distance matrix",
           "test_results": null,
-          "modified": "2024-05-16 00:34:23 +0000"
+          "modified": "2024-05-17 00:34:26 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/evolution/tutorials/mtb_transmission/tutorial.json",
@@ -2188,7 +2188,7 @@
           ],
           "name": "Genome Assembly of MRSA using Illumina MiSeq Data",
           "test_results": null,
-          "modified": "2024-05-16 00:34:21 +0000"
+          "modified": "2024-05-17 00:34:24 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/mrsa-illumina/tutorial.json",
