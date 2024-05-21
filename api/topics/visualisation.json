@@ -134,7 +134,7 @@
           ],
           "name": "Circos for E. Coli",
           "test_results": null,
-          "modified": "2024-05-20 00:35:07 +0000"
+          "modified": "2024-05-21 00:34:47 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos-microbial/tutorial.json",
@@ -150,6 +150,11 @@
       ],
       "supported_servers": {
         "exact": [
+          {
+            "url": "https://usegalaxy.cz/",
+            "name": "UseGalaxy.cz",
+            "usegalaxy": "true"
+          },
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
@@ -170,11 +175,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.cz/",
-            "name": "UseGalaxy.cz",
             "usegalaxy": "true"
           },
           {
@@ -507,7 +507,7 @@
           ],
           "name": "Circos tutorial",
           "test_results": null,
-          "modified": "2024-05-20 00:35:07 +0000"
+          "modified": "2024-05-21 00:34:47 +0000"
         },
         {
           "workflow": "nature_workflow.ga",
@@ -532,7 +532,7 @@
           ],
           "name": "Circos: Nature workflow",
           "test_results": null,
-          "modified": "2024-05-20 00:35:07 +0000"
+          "modified": "2024-05-21 00:34:47 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",

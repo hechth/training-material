@@ -160,7 +160,7 @@
       ],
       "name": "Trio Analysis Tutorial",
       "test_results": null,
-      "modified": "2024-05-20 00:35:07 +0000"
+      "modified": "2024-05-21 00:34:47 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/trio-analysis/tutorial.json",
@@ -187,7 +187,11 @@
       }
     ],
     "inexact": [
-
+      {
+        "url": "https://usegalaxy.cz/",
+        "name": "UseGalaxy.cz",
+        "usegalaxy": "true"
+      }
     ]
   },
   "topic_name_human": "Variant Analysis",
