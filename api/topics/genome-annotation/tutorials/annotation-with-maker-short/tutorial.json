@@ -79,7 +79,7 @@
       ],
       "name": "Genome annotation with Maker (short)",
       "test_results": null,
-      "modified": "2024-05-21 00:34:46 +0000"
+      "modified": "2024-05-22 00:34:29 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/genome-annotation/tutorials/annotation-with-maker-short/tutorial.json",
@@ -100,11 +100,6 @@
       {
         "url": "https://usegalaxy.be/",
         "name": "UseGalaxy.be",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.no/",
-        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       }
     ]
