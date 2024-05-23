@@ -134,7 +134,7 @@
           ],
           "name": "Circos for E. Coli",
           "test_results": null,
-          "modified": "2024-05-22 00:34:31 +0000"
+          "modified": "2024-05-23 00:34:21 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos-microbial/tutorial.json",
@@ -507,7 +507,7 @@
           ],
           "name": "Circos tutorial",
           "test_results": null,
-          "modified": "2024-05-22 00:34:31 +0000"
+          "modified": "2024-05-23 00:34:21 +0000"
         },
         {
           "workflow": "nature_workflow.ga",
@@ -532,7 +532,7 @@
           ],
           "name": "Circos: Nature workflow",
           "test_results": null,
-          "modified": "2024-05-22 00:34:31 +0000"
+          "modified": "2024-05-23 00:34:21 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
