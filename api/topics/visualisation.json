@@ -134,7 +134,7 @@
           ],
           "name": "Circos for E. Coli",
           "test_results": null,
-          "modified": "2024-05-25 00:38:31 +0000"
+          "modified": "2024-05-26 00:37:45 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos-microbial/tutorial.json",
@@ -175,11 +175,6 @@
           {
             "url": "https://usegalaxy.be/",
             "name": "UseGalaxy.be",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.no/",
-            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {
@@ -507,7 +502,7 @@
           ],
           "name": "Circos tutorial",
           "test_results": null,
-          "modified": "2024-05-25 00:38:31 +0000"
+          "modified": "2024-05-26 00:37:45 +0000"
         },
         {
           "workflow": "nature_workflow.ga",
@@ -532,7 +527,7 @@
           ],
           "name": "Circos: Nature workflow",
           "test_results": null,
-          "modified": "2024-05-25 00:38:31 +0000"
+          "modified": "2024-05-26 00:37:45 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/visualisation/tutorials/circos/tutorial.json",
@@ -576,11 +571,6 @@
           {
             "url": "https://usegalaxy.cz/",
             "name": "UseGalaxy.cz",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.no/",
-            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           }
         ]
@@ -754,11 +744,6 @@
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
-            "usegalaxy": "true"
-          },
-          {
-            "url": "https://usegalaxy.no/",
-            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {

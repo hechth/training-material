@@ -98,7 +98,7 @@
       ],
       "name": "Analyze Screen",
       "test_results": null,
-      "modified": "2024-05-25 00:38:30 +0000"
+      "modified": "2024-05-26 00:37:43 +0000"
     },
     {
       "workflow": "feature_extraction.ga",
@@ -114,7 +114,7 @@
       ],
       "name": "Feature Extraction",
       "test_results": null,
-      "modified": "2024-05-25 00:38:30 +0000"
+      "modified": "2024-05-26 00:37:43 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/imaging/tutorials/hela-screen-analysis/tutorial.json",
@@ -149,11 +149,6 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.no/",
-        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       }
     ]

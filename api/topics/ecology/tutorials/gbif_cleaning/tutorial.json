@@ -79,7 +79,7 @@
       ],
       "name": "GBIF data Quality check and filtering workflow Feb-2020",
       "test_results": null,
-      "modified": "2024-05-25 00:38:29 +0000"
+      "modified": "2024-05-26 00:37:42 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/gbif_cleaning/tutorial.json",
@@ -105,11 +105,6 @@
       {
         "url": "https://usegalaxy.fr/",
         "name": "UseGalaxy.fr",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.no/",
-        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       }
     ],

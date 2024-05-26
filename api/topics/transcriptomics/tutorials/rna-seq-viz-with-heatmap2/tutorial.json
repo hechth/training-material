@@ -54,7 +54,7 @@
       ],
       "name": "Heatmap2 Workflow",
       "test_results": null,
-      "modified": "2024-05-25 00:38:31 +0000"
+      "modified": "2024-05-26 00:37:45 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.json",
@@ -91,11 +91,6 @@
       {
         "url": "https://usegalaxy.fr/",
         "name": "UseGalaxy.fr",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.no/",
-        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       },
       {

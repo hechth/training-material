@@ -59,7 +59,7 @@
       ],
       "name": "Intermine import/export",
       "test_results": null,
-      "modified": "2024-05-25 00:38:29 +0000"
+      "modified": "2024-05-26 00:37:43 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/intermine/tutorial.json",
@@ -82,11 +82,6 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.no/",
-        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       },
       {

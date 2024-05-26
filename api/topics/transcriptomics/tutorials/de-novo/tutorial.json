@@ -100,7 +100,7 @@
       ],
       "name": "De novo transcriptome reconstruction with RNA-Seq",
       "test_results": null,
-      "modified": "2024-05-25 00:38:31 +0000"
+      "modified": "2024-05-26 00:37:45 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/transcriptomics/tutorials/de-novo/tutorial.json",
@@ -148,11 +148,6 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
-        "usegalaxy": "true"
-      },
-      {
-        "url": "https://usegalaxy.no/",
-        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       },
       {
