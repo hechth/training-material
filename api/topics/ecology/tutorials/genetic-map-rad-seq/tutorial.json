@@ -71,7 +71,7 @@
       ],
       "name": "Genetic Map Rad Seq Workflow",
       "test_results": null,
-      "modified": "2024-05-26 00:37:42 +0000"
+      "modified": "2024-05-27 00:35:46 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/ecology/tutorials/genetic-map-rad-seq/tutorial.json",
@@ -94,6 +94,11 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.no/",
+        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       },
       {

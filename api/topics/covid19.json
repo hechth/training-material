@@ -377,7 +377,7 @@
           ],
           "name": "Simple COVID-19 - PE Variation",
           "test_results": null,
-          "modified": "2024-05-26 00:37:45 +0000"
+          "modified": "2024-05-27 00:35:49 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/variant-analysis/tutorials/sars-cov-2/tutorial.json",
@@ -430,6 +430,11 @@
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {
@@ -693,7 +698,7 @@
           ],
           "name": "GTN_ENA_upload_workflow",
           "test_results": null,
-          "modified": "2024-05-26 00:37:43 +0000"
+          "modified": "2024-05-27 00:35:47 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/upload-data-to-ena/tutorial.json",
@@ -876,7 +881,7 @@
           ],
           "name": "vcf2lineage",
           "test_results": null,
-          "modified": "2024-05-26 00:37:43 +0000"
+          "modified": "2024-05-27 00:35:47 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/galaxy-interface/tutorials/workflow-automation/tutorial.json",
@@ -1089,7 +1094,7 @@
           ],
           "name": "GTN - Sequence Analyses - Removal of human reads from SARS-CoV-2 sequencing data",
           "test_results": null,
-          "modified": "2024-05-26 00:37:44 +0000"
+          "modified": "2024-05-27 00:35:48 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
@@ -1146,6 +1151,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {
@@ -1297,7 +1307,7 @@
           ],
           "name": "Virtual screening of the SARS-CoV-2 main protease with rDock and pose scoring",
           "test_results": null,
-          "modified": "2024-05-26 00:37:41 +0000"
+          "modified": "2024-05-27 00:35:45 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/computational-chemistry/tutorials/covid19-docking/tutorial.json",
@@ -1591,7 +1601,7 @@
           ],
           "name": "assembly_with_preprocessing",
           "test_results": null,
-          "modified": "2024-05-26 00:37:41 +0000"
+          "modified": "2024-05-27 00:35:45 +0000"
         },
         {
           "workflow": "assembly_with_preprocessing_and_sra_download.ga",
@@ -1607,7 +1617,7 @@
           ],
           "name": "assembly_with_preprocessing_and_sra_download",
           "test_results": null,
-          "modified": "2024-05-26 00:37:41 +0000"
+          "modified": "2024-05-27 00:35:45 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/assembly/tutorials/assembly-with-preprocessing/tutorial.json",
@@ -1661,6 +1671,11 @@
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {
@@ -1975,6 +1990,11 @@
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
             "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
+            "usegalaxy": "true"
           }
         ]
       },
@@ -2131,6 +2151,11 @@
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {

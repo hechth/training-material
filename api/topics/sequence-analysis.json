@@ -1737,7 +1737,7 @@
               "version": "0.1"
             }
           },
-          "modified": "2024-05-26 00:37:44 +0000"
+          "modified": "2024-05-27 00:35:48 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/quality-control/tutorial.json",
@@ -2072,7 +2072,7 @@
           ],
           "name": "GTN - Sequence Analyses - Mapping - Jbrowse (imported from uploaded file)",
           "test_results": null,
-          "modified": "2024-05-26 00:37:44 +0000"
+          "modified": "2024-05-27 00:35:48 +0000"
         },
         {
           "workflow": "mapping.ga",
@@ -3863,7 +3863,7 @@
               "version": "0.1"
             }
           },
-          "modified": "2024-05-26 00:37:44 +0000"
+          "modified": "2024-05-27 00:35:48 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/mapping/tutorial.json",
@@ -3921,6 +3921,11 @@
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           }
         ]
@@ -4126,7 +4131,7 @@
           ],
           "name": "GTN - Sequence Analyses - Removal of human reads from SARS-CoV-2 sequencing data",
           "test_results": null,
-          "modified": "2024-05-26 00:37:44 +0000"
+          "modified": "2024-05-27 00:35:48 +0000"
         }
       ],
       "api": "https://training.galaxyproject.org/training-material/api/topics/sequence-analysis/tutorials/human-reads-removal/tutorial.json",
@@ -4183,6 +4188,11 @@
           {
             "url": "https://usegalaxy.eu",
             "name": "UseGalaxy.eu",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {
@@ -4338,6 +4348,11 @@
           {
             "url": "https://usegalaxy.fr/",
             "name": "UseGalaxy.fr",
+            "usegalaxy": "true"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
             "usegalaxy": "true"
           },
           {
@@ -4622,6 +4637,11 @@
             "url": "https://galaxytrakr.org/",
             "name": "GalaxyTrakr",
             "usegalaxy": "false"
+          },
+          {
+            "url": "https://usegalaxy.no/",
+            "name": "UseGalaxy.no",
+            "usegalaxy": "true"
           }
         ]
       },

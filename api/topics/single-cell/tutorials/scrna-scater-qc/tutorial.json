@@ -95,7 +95,7 @@
       ],
       "name": "Scater",
       "test_results": null,
-      "modified": "2024-05-26 00:37:44 +0000"
+      "modified": "2024-05-27 00:35:48 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/scrna-scater-qc/tutorial.json",
@@ -115,6 +115,11 @@
       {
         "url": "https://usegalaxy.eu",
         "name": "UseGalaxy.eu",
+        "usegalaxy": "true"
+      },
+      {
+        "url": "https://usegalaxy.no/",
+        "name": "UseGalaxy.no",
         "usegalaxy": "true"
       },
       {
