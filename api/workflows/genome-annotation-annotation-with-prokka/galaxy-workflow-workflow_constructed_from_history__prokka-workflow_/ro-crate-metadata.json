@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-05-28T00:34:51.638+00:00",
+      "datePublished": "2024-05-29T00:37:20.597+00:00",
       "mainEntity": {
         "@id": "galaxy-workflow-workflow_constructed_from_history__prokka-workflow_.ga"
       }
