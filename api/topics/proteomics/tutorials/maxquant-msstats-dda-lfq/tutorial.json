@@ -119,7 +119,7 @@
       ],
       "name": "Proteomics: MaxQuant and MSstats LFQ workflow",
       "test_results": null,
-      "modified": "2024-05-30 00:35:32 +0000"
+      "modified": "2024-05-31 00:34:31 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/proteomics/tutorials/maxquant-msstats-dda-lfq/tutorial.json",
