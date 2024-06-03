@@ -86,7 +86,7 @@
       ],
       "name": "EBI Single Cell Expression Atlas files to AnnData",
       "test_results": null,
-      "modified": "2024-06-02 00:38:32 +0000"
+      "modified": "2024-06-03 00:36:29 +0000"
     }
   ],
   "api": "https://training.galaxyproject.org/training-material/api/topics/single-cell/tutorials/EBI-retrieval/tutorial.json",
