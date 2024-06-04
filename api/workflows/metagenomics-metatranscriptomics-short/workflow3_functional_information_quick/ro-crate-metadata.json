@@ -19,7 +19,7 @@
     {
       "@id": "./",
       "@type": "Dataset",
-      "datePublished": "2024-06-03T00:36:28.876+00:00",
+      "datePublished": "2024-06-04T00:35:34.401+00:00",
       "mainEntity": {
         "@id": "workflow3_functional_information_quick.ga"
       }
@@ -42,13 +42,13 @@
           "@id": "https://orcid.org/0000-0001-9818-0537"
         },
         {
-          "@id": "#42257334-c0a8-4e89-96ab-dec194b7271f"
+          "@id": "#eafccd6f-593d-4c07-a43f-2b4914952cd1"
         },
         {
-          "@id": "#1df84264-919a-48b5-ba4e-19647a80ffe6"
+          "@id": "#76e7ff2c-e41e-4e33-9594-80a6789adc9b"
         },
         {
-          "@id": "#53d62b0a-500c-4497-96b2-da4f65a64952"
+          "@id": "#cc92df89-5058-461a-9084-f8d0deea8735"
         },
         {
           "@id": "https://orcid.org/0000-0003-3803-468X"
@@ -99,17 +99,17 @@
       "name": "Subina Mehta"
     },
     {
-      "@id": "#42257334-c0a8-4e89-96ab-dec194b7271f",
+      "@id": "#eafccd6f-593d-4c07-a43f-2b4914952cd1",
       "@type": "Person",
       "name": "Ray Sajulga"
     },
     {
-      "@id": "#1df84264-919a-48b5-ba4e-19647a80ffe6",
+      "@id": "#76e7ff2c-e41e-4e33-9594-80a6789adc9b",
       "@type": "Person",
       "name": "Emma Leith"
     },
     {
-      "@id": "#53d62b0a-500c-4497-96b2-da4f65a64952",
+      "@id": "#cc92df89-5058-461a-9084-f8d0deea8735",
       "@type": "Person",
       "name": "Praveen Kumar"
     },
